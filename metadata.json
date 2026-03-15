@@ -1,1 +1,15 @@
-[]
+[
+    {
+        "id": "ZX7vaPFWhWU2ewz4GXuZfJ4LOD5jpOJY",
+        "plugin": "Baseline",
+        "language": "zh-cn",
+        "version": "3.2.7.1",
+        "supported_versions": "3.2.7.1",
+        "title": "Baseline",
+        "description": "Baseline Localization & Tweaks",
+        "hash": "7c791ac77c791ac77c791ac77c791ac7",
+        "created_at": "2026-03-15T08:46:50.858Z",
+        "updated_at": "2026-03-15T08:46:50.858Z",
+        "type": "theme"
+    }
+]
