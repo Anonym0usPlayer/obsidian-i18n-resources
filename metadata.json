@@ -11,5 +11,18 @@
         "created_at": "2026-03-15T08:46:50.858Z",
         "updated_at": "2026-03-15T08:46:50.858Z",
         "type": "theme"
+    },
+    {
+        "id": "-Md1a4B9r3ubQt-0Ak71GYydiOoauww6",
+        "plugin": "manual-sorting",
+        "language": "zh-cn",
+        "version": "3.2.4",
+        "supported_versions": "3.2.4",
+        "title": "Manual Sorting",
+        "description": "Drag'n'Drop file sorting.",
+        "hash": "5b1151145b1151145b1151145b115114",
+        "created_at": "2026-03-15T09:10:38.205Z",
+        "updated_at": "2026-03-15T09:10:38.205Z",
+        "type": "plugin"
     }
 ]
