@@ -1,0 +1,2464 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "theme": "Baseline",
+        "language": "zh-cn",
+        "version": "1.0.0",
+        "supportedVersions": "3.2.7.1",
+        "title": "Baseline",
+        "description": "Baseline Localization & Tweaks",
+        "author": ""
+    },
+    "dict": [
+        {
+            "type": "name",
+            "source": "Baseline",
+            "target": "Baseline"
+        },
+        {
+            "type": "title",
+            "source": "Get started",
+            "target": "快速开始"
+        },
+        {
+            "type": "title",
+            "source": "Migrate configuration",
+            "target": "迁移配置"
+        },
+        {
+            "type": "markdown",
+            "source": "true",
+            "target": "true"
+        },
+        {
+            "type": "description",
+            "source": "Seamlessly **migrate your existing Style Settings** from supported themes. ↗[](https://aaaaalexis.github.io/obsidian-baseline/migration/)",
+            "target": "从支持的主题无缝 **迁移现有 Style Settings 配置**。↗[](https://aaaaalexis.github.io/obsidian-baseline/migration/)"
+        },
+        {
+            "type": "title",
+            "source": "Community style presets",
+            "target": "社区样式预设"
+        },
+        {
+            "type": "description",
+            "source": "Discover and share Style Settings presets in **Baseline Marketplace**. ↗[](https://aaaaalexis.github.io/obsidian-baseline/marketplace/)",
+            "target": "在 **Baseline 市场** 中发现并共享 Style Settings 预设。↗[](https://aaaaalexis.github.io/obsidian-baseline/marketplace/)"
+        },
+        {
+            "type": "title",
+            "source": "Extended heading font",
+            "target": "扩展标题字体"
+        },
+        {
+            "type": "description",
+            "source": "Heading font missing glyphs? Download the **extended font CSS snippet**. ↗[](https://github.com/aaaaalexis/obsidian-baseline/blob/main/snippets/baseline-extension-font.css)",
+            "target": "标题字体缺字？请下载 **扩展字体 CSS 代码片段**。↗[](https://github.com/aaaaalexis/obsidian-baseline/blob/main/snippets/baseline-extension-font-cn.css)"
+        },
+        {
+            "type": "title",
+            "source": "Do not show again",
+            "target": "不再显示"
+        },
+        {
+            "type": "title",
+            "source": "Colors",
+            "target": "颜色"
+        },
+        {
+            "type": "title",
+            "source": "Interface accent",
+            "target": "界面强调色"
+        },
+        {
+            "type": "description",
+            "source": "Apply accent color throughout the app.",
+            "target": "在整个应用中使用强调色。"
+        },
+        {
+            "type": "title",
+            "source": "Color scheme accent",
+            "target": "颜色方案强调色"
+        },
+        {
+            "type": "description",
+            "source": "Use color scheme preset accent color.",
+            "target": "使用颜色方案预设的强调色。"
+        },
+        {
+            "type": "title",
+            "source": "Light color scheme",
+            "target": "浅色配色方案"
+        },
+        {
+            "type": "label",
+            "source": "Obsidian",
+            "target": "Obsidian"
+        },
+        {
+            "type": "label",
+            "source": "Admin",
+            "target": "Admin"
+        },
+        {
+            "type": "label",
+            "source": "Adwaita",
+            "target": "Adwaita"
+        },
+        {
+            "type": "label",
+            "source": "Atom",
+            "target": "Atom"
+        },
+        {
+            "type": "label",
+            "source": "Ayu",
+            "target": "Ayu"
+        },
+        {
+            "type": "label",
+            "source": "Catppuccin",
+            "target": "Catppuccin"
+        },
+        {
+            "type": "label",
+            "source": "Cupertino",
+            "target": "Cupertino"
+        },
+        {
+            "type": "label",
+            "source": "Everforest",
+            "target": "Everforest"
+        },
+        {
+            "type": "label",
+            "source": "Flexoki",
+            "target": "Flexoki"
+        },
+        {
+            "type": "label",
+            "source": "Gruvbox",
+            "target": "Gruvbox"
+        },
+        {
+            "type": "label",
+            "source": "Latte",
+            "target": "Latte"
+        },
+        {
+            "type": "label",
+            "source": "Material",
+            "target": "Material"
+        },
+        {
+            "type": "label",
+            "source": "Melange",
+            "target": "Melange"
+        },
+        {
+            "type": "label",
+            "source": "Minimal",
+            "target": "Minimal"
+        },
+        {
+            "type": "label",
+            "source": "Nord",
+            "target": "Nord"
+        },
+        {
+            "type": "label",
+            "source": "Notion",
+            "target": "Notion"
+        },
+        {
+            "type": "label",
+            "source": "Rosé Pine",
+            "target": "Rosé Pine"
+        },
+        {
+            "type": "label",
+            "source": "Sanctum",
+            "target": "Sanctum"
+        },
+        {
+            "type": "label",
+            "source": "Sky",
+            "target": "Sky"
+        },
+        {
+            "type": "label",
+            "source": "Solarized",
+            "target": "Solarized"
+        },
+        {
+            "type": "label",
+            "source": "Things",
+            "target": "Things"
+        },
+        {
+            "type": "label",
+            "source": "Tiniri",
+            "target": "Tiniri"
+        },
+        {
+            "type": "title",
+            "source": "Light contrast",
+            "target": "浅色对比度"
+        },
+        {
+            "type": "label",
+            "source": "Normal",
+            "target": "Normal"
+        },
+        {
+            "type": "label",
+            "source": "Low contrast",
+            "target": "Low contrast"
+        },
+        {
+            "type": "label",
+            "source": "High contrast",
+            "target": "High contrast"
+        },
+        {
+            "type": "title",
+            "source": "Dark color scheme",
+            "target": "深色配色方案"
+        },
+        {
+            "type": "label",
+            "source": "Dracula",
+            "target": "Dracula"
+        },
+        {
+            "type": "label",
+            "source": "Frappe",
+            "target": "Frappe"
+        },
+        {
+            "type": "label",
+            "source": "Macchiato",
+            "target": "Macchiato"
+        },
+        {
+            "type": "label",
+            "source": "Mocha",
+            "target": "Mocha"
+        },
+        {
+            "type": "title",
+            "source": "Dark contrast",
+            "target": "深色对比度"
+        },
+        {
+            "type": "label",
+            "source": "Black",
+            "target": "Black"
+        },
+        {
+            "type": "label",
+            "source": "Black (Mobile)",
+            "target": "Black (Mobile)"
+        },
+        {
+            "type": "title",
+            "source": "Base colors",
+            "target": "基础颜色"
+        },
+        {
+            "type": "title",
+            "source": "Primary background",
+            "target": "主背景"
+        },
+        {
+            "type": "description",
+            "source": "Used in main editor area.",
+            "target": "用于主编辑区域。"
+        },
+        {
+            "type": "title",
+            "source": "Primary background (Alt)",
+            "target": "主背景（替代）"
+        },
+        {
+            "type": "description",
+            "source": "Used in blockquotes and tables.",
+            "target": "用于引用块和表格。"
+        },
+        {
+            "type": "title",
+            "source": "Secondary background",
+            "target": "次级背景"
+        },
+        {
+            "type": "description",
+            "source": "Used in sidebars and menus.",
+            "target": "用于侧边栏和菜单。"
+        },
+        {
+            "type": "title",
+            "source": "Secondary background (Alt)",
+            "target": "次级背景（替代）"
+        },
+        {
+            "type": "title",
+            "source": "Interactive background",
+            "target": "交互背景"
+        },
+        {
+            "type": "description",
+            "source": "Used in buttons, dropdowns, and filled elements.",
+            "target": "用于按钮、下拉菜单和填充元素。"
+        },
+        {
+            "type": "title",
+            "source": "Interactive background (Hover)",
+            "target": "交互背景（悬停）"
+        },
+        {
+            "type": "title",
+            "source": "Subtle background (Hover)",
+            "target": "轻微背景（悬停）"
+        },
+        {
+            "type": "description",
+            "source": "Used in menu items and outlined elements.",
+            "target": "用于菜单项和描边元素。"
+        },
+        {
+            "type": "title",
+            "source": "Subtle background (Active)",
+            "target": "轻微背景（激活）"
+        },
+        {
+            "type": "title",
+            "source": "Border color",
+            "target": "边框颜色"
+        },
+        {
+            "type": "title",
+            "source": "Border color (Hover)",
+            "target": "边框颜色（悬停）"
+        },
+        {
+            "type": "title",
+            "source": "Border color (Active)",
+            "target": "边框颜色（激活）"
+        },
+        {
+            "type": "title",
+            "source": "Extended colors",
+            "target": "扩展颜色"
+        },
+        {
+            "type": "title",
+            "source": "Red",
+            "target": "红色"
+        },
+        {
+            "type": "title",
+            "source": "Orange",
+            "target": "橙色"
+        },
+        {
+            "type": "title",
+            "source": "Yellow",
+            "target": "黄色"
+        },
+        {
+            "type": "title",
+            "source": "Green",
+            "target": "绿色"
+        },
+        {
+            "type": "title",
+            "source": "Cyan",
+            "target": "青色"
+        },
+        {
+            "type": "title",
+            "source": "Blue",
+            "target": "蓝色"
+        },
+        {
+            "type": "title",
+            "source": "Purple",
+            "target": "紫色"
+        },
+        {
+            "type": "title",
+            "source": "Pink",
+            "target": "粉色"
+        },
+        {
+            "type": "title",
+            "source": "Icon colors",
+            "target": "图标颜色"
+        },
+        {
+            "type": "title",
+            "source": "Icon color",
+            "target": "图标颜色"
+        },
+        {
+            "type": "title",
+            "source": "Icon color (Hover)",
+            "target": "图标颜色（悬停）"
+        },
+        {
+            "type": "title",
+            "source": "Icon color (Active)",
+            "target": "图标颜色（激活）"
+        },
+        {
+            "type": "title",
+            "source": "Icon color (Focused)",
+            "target": "图标颜色（聚焦）"
+        },
+        {
+            "type": "title",
+            "source": "Text colors",
+            "target": "文本颜色"
+        },
+        {
+            "type": "title",
+            "source": "Primary text color",
+            "target": "主要文本颜色"
+        },
+        {
+            "type": "title",
+            "source": "Editor text color",
+            "target": "编辑器文本颜色"
+        },
+        {
+            "type": "title",
+            "source": "Secondary text color",
+            "target": "次要文本颜色"
+        },
+        {
+            "type": "title",
+            "source": "Tertiary text color",
+            "target": "第三级文本颜色"
+        },
+        {
+            "type": "title",
+            "source": "Italic text color",
+            "target": "斜体文本颜色"
+        },
+        {
+            "type": "title",
+            "source": "Bold text color",
+            "target": "粗体文本颜色"
+        },
+        {
+            "type": "title",
+            "source": "Highlighted text color",
+            "target": "高亮文本颜色"
+        },
+        {
+            "type": "title",
+            "source": "Highlighted text background",
+            "target": "高亮文本背景"
+        },
+        {
+            "type": "title",
+            "source": "Selected text background",
+            "target": "选中文本背景"
+        },
+        {
+            "type": "title",
+            "source": "Code colors",
+            "target": "代码颜色"
+        },
+        {
+            "type": "title",
+            "source": "Code default",
+            "target": "代码默认"
+        },
+        {
+            "type": "title",
+            "source": "Code comments",
+            "target": "代码注释"
+        },
+        {
+            "type": "title",
+            "source": "Code functions",
+            "target": "代码函数"
+        },
+        {
+            "type": "title",
+            "source": "Code keywords",
+            "target": "代码关键字"
+        },
+        {
+            "type": "title",
+            "source": "Code important",
+            "target": "代码重要标记"
+        },
+        {
+            "type": "title",
+            "source": "Code operators",
+            "target": "代码运算符"
+        },
+        {
+            "type": "title",
+            "source": "Code properties",
+            "target": "代码属性"
+        },
+        {
+            "type": "title",
+            "source": "Code punctuation",
+            "target": "代码标点"
+        },
+        {
+            "type": "title",
+            "source": "Code strings",
+            "target": "代码字符串"
+        },
+        {
+            "type": "title",
+            "source": "Code tags",
+            "target": "代码标签"
+        },
+        {
+            "type": "title",
+            "source": "Code values",
+            "target": "代码值"
+        },
+        {
+            "type": "title",
+            "source": "Graph colors",
+            "target": "图谱颜色"
+        },
+        {
+            "type": "description",
+            "source": "Requires reloading to apply changes.",
+            "target": "需要重新加载才能应用更改。"
+        },
+        {
+            "type": "title",
+            "source": "Line color",
+            "target": "连线颜色"
+        },
+        {
+            "type": "title",
+            "source": "Node color",
+            "target": "节点颜色"
+        },
+        {
+            "type": "title",
+            "source": "Active node color",
+            "target": "活动节点颜色"
+        },
+        {
+            "type": "title",
+            "source": "Tag node color",
+            "target": "标签节点颜色"
+        },
+        {
+            "type": "title",
+            "source": "Attachment node color",
+            "target": "附件节点颜色"
+        },
+        {
+            "type": "title",
+            "source": "Unresolved node color",
+            "target": "未解析节点颜色"
+        },
+        {
+            "type": "title",
+            "source": "Interface",
+            "target": "界面"
+        },
+        {
+            "type": "title",
+            "source": "Interface font",
+            "target": "界面字体"
+        },
+        {
+            "type": "title",
+            "source": "Density",
+            "target": "密度"
+        },
+        {
+            "type": "title",
+            "source": "Roundness",
+            "target": "圆角程度"
+        },
+        {
+            "type": "title",
+            "source": "Icon thickness",
+            "target": "图标线条粗细"
+        },
+        {
+            "type": "title",
+            "source": "Workspace",
+            "target": "工作区"
+        },
+        {
+            "type": "label",
+            "source": "Fusion",
+            "target": "Fusion"
+        },
+        {
+            "type": "label",
+            "source": "macOS",
+            "target": "macOS"
+        },
+        {
+            "type": "label",
+            "source": "Classic",
+            "target": "Classic"
+        },
+        {
+            "type": "label",
+            "source": "Cards",
+            "target": "Cards"
+        },
+        {
+            "type": "label",
+            "source": "Border",
+            "target": "Border"
+        },
+        {
+            "type": "label",
+            "source": "Frame",
+            "target": "Frame"
+        },
+        {
+            "type": "label",
+            "source": "Viewfinder",
+            "target": "Viewfinder"
+        },
+        {
+            "type": "title",
+            "source": "Personality",
+            "target": "界面风格"
+        },
+        {
+            "type": "label",
+            "source": "Fluent",
+            "target": "Fluent"
+        },
+        {
+            "type": "label",
+            "source": "Tactile",
+            "target": "Tactile"
+        },
+        {
+            "type": "title",
+            "source": "Status bar",
+            "target": "状态栏"
+        },
+        {
+            "type": "label",
+            "source": "Full width",
+            "target": "Full width"
+        },
+        {
+            "type": "title",
+            "source": "Accessibility",
+            "target": "辅助功能"
+        },
+        {
+            "type": "title",
+            "source": "Reduce contrast change",
+            "target": "减少对比度变化"
+        },
+        {
+            "type": "description",
+            "source": "Minimize contrast shifts when window loses focus.",
+            "target": "在窗口失去焦点时尽量减少对比度变化。"
+        },
+        {
+            "type": "title",
+            "source": "Reduce motion",
+            "target": "减少动画"
+        },
+        {
+            "type": "description",
+            "source": "Minimize animation effects.",
+            "target": "减少动画效果。"
+        },
+        {
+            "type": "title",
+            "source": "Standard font size",
+            "target": "标准字体大小"
+        },
+        {
+            "type": "description",
+            "source": "Disable operating system-based dynamic font sizes.",
+            "target": "禁用操作系统的动态字体大小。"
+        },
+        {
+            "type": "title",
+            "source": "Interface font size",
+            "target": "界面字号"
+        },
+        {
+            "type": "description",
+            "source": "Fine-tune interface text size.",
+            "target": "微调界面文字大小。"
+        },
+        {
+            "type": "title",
+            "source": "Icon size",
+            "target": "图标尺寸"
+        },
+        {
+            "type": "description",
+            "source": "Fine-tune icon size.",
+            "target": "微调图标尺寸。"
+        },
+        {
+            "type": "title",
+            "source": "Animation",
+            "target": "动画"
+        },
+        {
+            "type": "title",
+            "source": "Animation personality",
+            "target": "动画风格"
+        },
+        {
+            "type": "label",
+            "source": "Playful",
+            "target": "Playful"
+        },
+        {
+            "type": "label",
+            "source": "Sharp",
+            "target": "Sharp"
+        },
+        {
+            "type": "label",
+            "source": "Refined",
+            "target": "Refined"
+        },
+        {
+            "type": "title",
+            "source": "Animation speed",
+            "target": "动画速度"
+        },
+        {
+            "type": "title",
+            "source": "Tabs",
+            "target": "标签页"
+        },
+        {
+            "type": "title",
+            "source": "Tab bar height",
+            "target": "标签栏高度"
+        },
+        {
+            "type": "title",
+            "source": "Editor tab style",
+            "target": "编辑器标签样式"
+        },
+        {
+            "type": "label",
+            "source": "Floating",
+            "target": "Floating"
+        },
+        {
+            "type": "label",
+            "source": "Floating (Center)",
+            "target": "Floating (Center)"
+        },
+        {
+            "type": "label",
+            "source": "Underline",
+            "target": "Underline"
+        },
+        {
+            "type": "label",
+            "source": "Underline (Accented)",
+            "target": "Underline (Accented)"
+        },
+        {
+            "type": "title",
+            "source": "Editor tab label alignment",
+            "target": "编辑器标签文字对齐"
+        },
+        {
+            "type": "label",
+            "source": "Left",
+            "target": "Left"
+        },
+        {
+            "type": "label",
+            "source": "Center",
+            "target": "Center"
+        },
+        {
+            "type": "title",
+            "source": "Editor tab divider",
+            "target": "编辑器标签分隔线"
+        },
+        {
+            "type": "title",
+            "source": "Full width tabs",
+            "target": "标签页占满宽度"
+        },
+        {
+            "type": "title",
+            "source": "Tab stacks",
+            "target": "堆叠标签"
+        },
+        {
+            "type": "title",
+            "source": "Stacked tab width",
+            "target": "堆叠标签页宽度"
+        },
+        {
+            "type": "title",
+            "source": "Spine width",
+            "target": "书脊宽度"
+        },
+        {
+            "type": "title",
+            "source": "Spine text orientation",
+            "target": "书脊文字方向"
+        },
+        {
+            "type": "label",
+            "source": "Top",
+            "target": "Top"
+        },
+        {
+            "type": "label",
+            "source": "Top flipped",
+            "target": "Top flipped"
+        },
+        {
+            "type": "label",
+            "source": "Bottom",
+            "target": "Bottom"
+        },
+        {
+            "type": "label",
+            "source": "Bottom flipped",
+            "target": "Bottom flipped"
+        },
+        {
+            "type": "label",
+            "source": "Center flipped",
+            "target": "Center flipped"
+        },
+        {
+            "type": "title",
+            "source": "Spine element order",
+            "target": "书脊元素顺序"
+        },
+        {
+            "type": "label",
+            "source": "Default",
+            "target": "Default"
+        },
+        {
+            "type": "label",
+            "source": "Reversed",
+            "target": "Reversed"
+        },
+        {
+            "type": "title",
+            "source": "Tab title bar",
+            "target": "标签页标题栏"
+        },
+        {
+            "type": "description",
+            "source": "Requires **Show tab title bar** in **Appearance** settings.",
+            "target": "需要在 **外观** 设置中启用 **显示标签页标题栏**。"
+        },
+        {
+            "type": "title",
+            "source": "Tab title visibility",
+            "target": "标签页标题可见性"
+        },
+        {
+            "type": "label",
+            "source": "Hover only",
+            "target": "Hover only"
+        },
+        {
+            "type": "label",
+            "source": "Hidden",
+            "target": "Hidden"
+        },
+        {
+            "type": "label",
+            "source": "Always",
+            "target": "Always"
+        },
+        {
+            "type": "title",
+            "source": "Tab title font size",
+            "target": "标签页标题字体大小"
+        },
+        {
+            "type": "title",
+            "source": "Tab title font weight",
+            "target": "标签页标题字重"
+        },
+        {
+            "type": "title",
+            "source": "Tab title alignment",
+            "target": "标签页标题对齐"
+        },
+        {
+            "type": "title",
+            "source": "Sidebars",
+            "target": "侧边栏"
+        },
+        {
+            "type": "title",
+            "source": "Tab style (Left top)",
+            "target": "标签样式（左上）"
+        },
+        {
+            "type": "label",
+            "source": "Stacked",
+            "target": "Stacked"
+        },
+        {
+            "type": "label",
+            "source": "Labeled",
+            "target": "Labeled"
+        },
+        {
+            "type": "label",
+            "source": "Dropdown",
+            "target": "Dropdown"
+        },
+        {
+            "type": "label",
+            "source": "Glyph",
+            "target": "Glyph"
+        },
+        {
+            "type": "label",
+            "source": "Text",
+            "target": "Text"
+        },
+        {
+            "type": "title",
+            "source": "Tab style (Left)",
+            "target": "标签样式（左侧）"
+        },
+        {
+            "type": "label",
+            "source": "Compact",
+            "target": "Compact"
+        },
+        {
+            "type": "title",
+            "source": "Tab style (Right top)",
+            "target": "标签样式（右上）"
+        },
+        {
+            "type": "title",
+            "source": "Tab style (Right)",
+            "target": "标签样式（右侧）"
+        },
+        {
+            "type": "title",
+            "source": "Panel actions",
+            "target": "面板操作按钮"
+        },
+        {
+            "type": "label",
+            "source": "Dot",
+            "target": "Dot"
+        },
+        {
+            "type": "label",
+            "source": "Indicator",
+            "target": "Indicator"
+        },
+        {
+            "type": "title",
+            "source": "Always show vault switcher",
+            "target": "始终显示仓库切换器"
+        },
+        {
+            "type": "title",
+            "source": "Hover reveal",
+            "target": "悬停显示"
+        },
+        {
+            "type": "title",
+            "source": "Hover ribbon",
+            "target": "悬停显示功能区"
+        },
+        {
+            "type": "description",
+            "source": "Reveal ribbon by hovering over left window edge.",
+            "target": "将鼠标移动到窗口左侧边缘以显示功能区。"
+        },
+        {
+            "type": "title",
+            "source": "Hover sidebars",
+            "target": "悬停显示侧边栏"
+        },
+        {
+            "type": "description",
+            "source": "Reveal collapsed sidebars by hovering over window edges.",
+            "target": "将鼠标移动到窗口边缘以展开侧边栏。"
+        },
+        {
+            "type": "title",
+            "source": "Hover sidebars trigger area",
+            "target": "悬停侧边栏触发区域"
+        },
+        {
+            "type": "label",
+            "source": "Edge",
+            "target": "Edge"
+        },
+        {
+            "type": "label",
+            "source": "Small",
+            "target": "Small"
+        },
+        {
+            "type": "label",
+            "source": "Medium",
+            "target": "Medium"
+        },
+        {
+            "type": "label",
+            "source": "Large",
+            "target": "Large"
+        },
+        {
+            "type": "title",
+            "source": "Hover sidebars width",
+            "target": "悬停侧边栏宽度"
+        },
+        {
+            "type": "title",
+            "source": "Hover sidebars delay",
+            "target": "悬停侧边栏延迟"
+        },
+        {
+            "type": "title",
+            "source": "Discard interactions",
+            "target": "忽略交互"
+        },
+        {
+            "type": "description",
+            "source": "Always collapse hover sidebars after cursor leaving.",
+            "target": "光标离开后总是自动收起悬停侧边栏。"
+        },
+        {
+            "type": "title",
+            "source": "File explorer",
+            "target": "文件列表"
+        },
+        {
+            "type": "title",
+            "source": "Active file style",
+            "target": "活动文件样式"
+        },
+        {
+            "type": "label",
+            "source": "Subtle",
+            "target": "Subtle"
+        },
+        {
+            "type": "label",
+            "source": "Strong",
+            "target": "Strong"
+        },
+        {
+            "type": "title",
+            "source": "Colorful folders",
+            "target": "彩色文件夹"
+        },
+        {
+            "type": "label",
+            "source": "None",
+            "target": "None"
+        },
+        {
+            "type": "label",
+            "source": "Monochrome",
+            "target": "Monochrome"
+        },
+        {
+            "type": "title",
+            "source": "Item name size",
+            "target": "条目名称字号"
+        },
+        {
+            "type": "title",
+            "source": "Full item name",
+            "target": "显示完整名称"
+        },
+        {
+            "type": "title",
+            "source": "Bold folders name",
+            "target": "文件夹名称加粗"
+        },
+        {
+            "type": "title",
+            "source": "Large new note button",
+            "target": "大号新建笔记按钮"
+        },
+        {
+            "type": "title",
+            "source": "Indentation guides thickness",
+            "target": "缩进参考线粗细"
+        },
+        {
+            "type": "title",
+            "source": "Indentation guides color",
+            "target": "缩进参考线颜色"
+        },
+        {
+            "type": "label",
+            "source": "Accent color",
+            "target": "Accent color"
+        },
+        {
+            "type": "title",
+            "source": "Mobile",
+            "target": "移动端"
+        },
+        {
+            "type": "title",
+            "source": "Horizontal tab list",
+            "target": "水平标签列表"
+        },
+        {
+            "type": "title",
+            "source": "Sidebar width",
+            "target": "侧边栏宽度"
+        },
+        {
+            "type": "title",
+            "source": "Tablet sidebar width (Left)",
+            "target": "平板侧边栏宽度（左）"
+        },
+        {
+            "type": "title",
+            "source": "Tablet sidebar width (Right)",
+            "target": "平板侧边栏宽度（右）"
+        },
+        {
+            "type": "title",
+            "source": "Tablet pinned sidebar width (Left)",
+            "target": "平板固定侧边栏宽度（左）"
+        },
+        {
+            "type": "title",
+            "source": "Tablet pinned sidebar width (Right)",
+            "target": "平板固定侧边栏宽度（右）"
+        },
+        {
+            "type": "title",
+            "source": "Settings",
+            "target": "设置"
+        },
+        {
+            "type": "title",
+            "source": "Plugins list view",
+            "target": "插件列表视图"
+        },
+        {
+            "type": "description",
+            "source": "Disable plugins grid layout.",
+            "target": "Disable plugins grid layout."
+        },
+        {
+            "type": "title",
+            "source": "Frame title",
+            "target": "窗口标题"
+        },
+        {
+            "type": "description",
+            "source": "Requires **Obsidian frame** in **Appearance** settings.",
+            "target": "需要在 **外观** 设置中启用 **Obsidian 风格**。"
+        },
+        {
+            "type": "title",
+            "source": "Hide frame title",
+            "target": "隐藏窗口标题"
+        },
+        {
+            "type": "title",
+            "source": "Frame title font weight",
+            "target": "窗口标题字重"
+        },
+        {
+            "type": "title",
+            "source": "Tinted frame",
+            "target": "着色窗口"
+        },
+        {
+            "type": "title",
+            "source": "Tinted frame background",
+            "target": "着色窗口背景"
+        },
+        {
+            "type": "title",
+            "source": "Tinted frame icon color",
+            "target": "着色窗口图标颜色"
+        },
+        {
+            "type": "title",
+            "source": "Translucency",
+            "target": "半透明"
+        },
+        {
+            "type": "description",
+            "source": "Requires **Translucent window** in **Appearance** settings.",
+            "target": "Requires **Translucent window** in **Appearance** settings."
+        },
+        {
+            "type": "title",
+            "source": "Light translucent window opacity",
+            "target": "浅色窗口透明度"
+        },
+        {
+            "type": "title",
+            "source": "Dark translucent window opacity",
+            "target": "深色窗口透明度"
+        },
+        {
+            "type": "title",
+            "source": "Editor",
+            "target": "编辑器"
+        },
+        {
+            "type": "title",
+            "source": "Editor font",
+            "target": "编辑器字体"
+        },
+        {
+            "type": "title",
+            "source": "Monospace font",
+            "target": "等宽字体"
+        },
+        {
+            "type": "title",
+            "source": "Paragraph spacing",
+            "target": "段落间距"
+        },
+        {
+            "type": "title",
+            "source": "Focus view",
+            "target": "专注视图"
+        },
+        {
+            "type": "description",
+            "source": "Hide tabs and table title bar when both sidebars are collapsed.",
+            "target": "当两侧侧边栏都折叠时隐藏标签栏和表格标题栏。"
+        },
+        {
+            "type": "title",
+            "source": "Disable quick mode switcher",
+            "target": "禁用快速模式切换器"
+        },
+        {
+            "type": "description",
+            "source": "Always show editor mode toggle on top.",
+            "target": "始终在顶部显示编辑模式切换按钮。"
+        },
+        {
+            "type": "title",
+            "source": "Active line",
+            "target": "当前行"
+        },
+        {
+            "type": "title",
+            "source": "Active line highlight style",
+            "target": "当前行高亮样式"
+        },
+        {
+            "type": "label",
+            "source": "Block background",
+            "target": "Block background"
+        },
+        {
+            "type": "label",
+            "source": "Line background",
+            "target": "Line background"
+        },
+        {
+            "type": "title",
+            "source": "Active line highlight color",
+            "target": "当前行高亮颜色"
+        },
+        {
+            "type": "title",
+            "source": "Block width",
+            "target": "区块宽度"
+        },
+        {
+            "type": "description",
+            "source": "Requires **Readable line length** in **Editor** settings. [Usage guide](https://github.com/aaaaalexis/obsidian-baseline#block-width)",
+            "target": "需要在 **编辑器** 设置中开启 **限制行宽**。[使用指南](https://github.com/aaaaalexis/obsidian-baseline#block-width)"
+        },
+        {
+            "type": "title",
+            "source": "Disable block width",
+            "target": "禁用区块宽度"
+        },
+        {
+            "type": "title",
+            "source": "Default line width",
+            "target": "默认行宽"
+        },
+        {
+            "type": "title",
+            "source": "Wide line width",
+            "target": "宽行宽"
+        },
+        {
+            "type": "title",
+            "source": "Table block width",
+            "target": "表格区块宽度"
+        },
+        {
+            "type": "label",
+            "source": "Maximum line width",
+            "target": "Maximum line width"
+        },
+        {
+            "type": "label",
+            "source": "100% pane width",
+            "target": "100% pane width"
+        },
+        {
+            "type": "title",
+            "source": "Bases block width",
+            "target": "数据库区块宽度"
+        },
+        {
+            "type": "title",
+            "source": "Image block width",
+            "target": "图片区块宽度"
+        },
+        {
+            "type": "title",
+            "source": "Inline title",
+            "target": "页内标题"
+        },
+        {
+            "type": "description",
+            "source": "Requires **Show inline title** in **Appearance** settings.",
+            "target": "需要在 **外观** 设置中启用 **页内标题**。"
+        },
+        {
+            "type": "title",
+            "source": "Inline title font",
+            "target": "页内标题字体"
+        },
+        {
+            "type": "title",
+            "source": "Inline title font size",
+            "target": "页内标题字号"
+        },
+        {
+            "type": "title",
+            "source": "Inline title font weight",
+            "target": "页内标题字重"
+        },
+        {
+            "type": "title",
+            "source": "Inline title text color",
+            "target": "页内标题文本颜色"
+        },
+        {
+            "type": "title",
+            "source": "Properties",
+            "target": "属性"
+        },
+        {
+            "type": "title",
+            "source": "Property style",
+            "target": "属性样式"
+        },
+        {
+            "type": "label",
+            "source": "Block",
+            "target": "Block"
+        },
+        {
+            "type": "title",
+            "source": "Property name width",
+            "target": "属性名称宽度"
+        },
+        {
+            "type": "title",
+            "source": "Hide property heading",
+            "target": "隐藏属性标题"
+        },
+        {
+            "type": "title",
+            "source": "Hide property icons",
+            "target": "隐藏属性图标"
+        },
+        {
+            "type": "title",
+            "source": "Hide add property button",
+            "target": "隐藏添加属性按钮"
+        },
+        {
+            "type": "title",
+            "source": "Display list as tags",
+            "target": "将列表显示为标签"
+        },
+        {
+            "type": "title",
+            "source": "Disable line wrap",
+            "target": "禁用换行"
+        },
+        {
+            "type": "title",
+            "source": "Headings",
+            "target": "标题"
+        },
+        {
+            "type": "title",
+            "source": "Heading spacing",
+            "target": "标题间距"
+        },
+        {
+            "type": "description",
+            "source": "Adjust space between headings and paragraphs.",
+            "target": "调整标题与段落之间的间距。"
+        },
+        {
+            "type": "title",
+            "source": "Readable spacing",
+            "target": "可读间距"
+        },
+        {
+            "type": "description",
+            "source": "Use tighter spacing in editor.",
+            "target": "在编辑器中使用更紧凑的间距。"
+        },
+        {
+            "type": "title",
+            "source": "Readable spacing modifier",
+            "target": "可读间距修正"
+        },
+        {
+            "type": "description",
+            "source": "Relative to paragraph spacing value.",
+            "target": "相对于段落间距的相对值。"
+        },
+        {
+            "type": "title",
+            "source": "Colorful headings",
+            "target": "彩色标题"
+        },
+        {
+            "type": "title",
+            "source": "Colored heading text",
+            "target": "彩色标题文字"
+        },
+        {
+            "type": "title",
+            "source": "Heading indicator",
+            "target": "标题指示"
+        },
+        {
+            "type": "title",
+            "source": "Heading background",
+            "target": "标题背景"
+        },
+        {
+            "type": "title",
+            "source": "Full width background",
+            "target": "全宽背景"
+        },
+        {
+            "type": "description",
+            "source": "Colorful headings color follow individual heading settings below.",
+            "target": "彩色标题的颜色跟随下方各级标题设置。"
+        },
+        {
+            "type": "title",
+            "source": "Level 1 Headings",
+            "target": "一级标题"
+        },
+        {
+            "type": "title",
+            "source": "H1 color",
+            "target": "H1 颜色"
+        },
+        {
+            "type": "title",
+            "source": "H1 font",
+            "target": "H1 字体"
+        },
+        {
+            "type": "title",
+            "source": "H1 font size",
+            "target": "H1 字号"
+        },
+        {
+            "type": "title",
+            "source": "H1 font weight",
+            "target": "H1 字重"
+        },
+        {
+            "type": "title",
+            "source": "H1 font variant",
+            "target": "H1 字体变体"
+        },
+        {
+            "type": "label",
+            "source": "Small caps",
+            "target": "小型大写"
+        },
+        {
+            "type": "label",
+            "source": "All small caps",
+            "target": "全小型大写"
+        },
+        {
+            "type": "title",
+            "source": "H1 font style",
+            "target": "H1 字体样式"
+        },
+        {
+            "type": "label",
+            "source": "Italic",
+            "target": "Italic"
+        },
+        {
+            "type": "title",
+            "source": "H1 text case",
+            "target": "H1 大小写"
+        },
+        {
+            "type": "label",
+            "source": "Capitalize",
+            "target": "首字母大写"
+        },
+        {
+            "type": "label",
+            "source": "Uppercase",
+            "target": "全部大写"
+        },
+        {
+            "type": "label",
+            "source": "Lowercase",
+            "target": "全部小写"
+        },
+        {
+            "type": "title",
+            "source": "H1 divider",
+            "target": "H1 分割线"
+        },
+        {
+            "type": "title",
+            "source": "Level 2 Headings",
+            "target": "二级标题"
+        },
+        {
+            "type": "title",
+            "source": "H2 color",
+            "target": "H2 颜色"
+        },
+        {
+            "type": "title",
+            "source": "H2 font",
+            "target": "H2 字体"
+        },
+        {
+            "type": "title",
+            "source": "H2 font size",
+            "target": "H2 字号"
+        },
+        {
+            "type": "title",
+            "source": "H2 font weight",
+            "target": "H2 字重"
+        },
+        {
+            "type": "title",
+            "source": "H2 font variant",
+            "target": "H2 字体变体"
+        },
+        {
+            "type": "title",
+            "source": "H2 font style",
+            "target": "H2 字体样式"
+        },
+        {
+            "type": "title",
+            "source": "H2 text case",
+            "target": "H2 大小写"
+        },
+        {
+            "type": "title",
+            "source": "H2 divider",
+            "target": "H2 分割线"
+        },
+        {
+            "type": "title",
+            "source": "Level 3 Headings",
+            "target": "三级标题"
+        },
+        {
+            "type": "title",
+            "source": "H3 color",
+            "target": "H3 颜色"
+        },
+        {
+            "type": "title",
+            "source": "H3 font",
+            "target": "H3 字体"
+        },
+        {
+            "type": "title",
+            "source": "H3 font size",
+            "target": "H3 字号"
+        },
+        {
+            "type": "title",
+            "source": "H3 font weight",
+            "target": "H3 字重"
+        },
+        {
+            "type": "title",
+            "source": "H3 font variant",
+            "target": "H3 字体变体"
+        },
+        {
+            "type": "title",
+            "source": "H3 font style",
+            "target": "H3 字体样式"
+        },
+        {
+            "type": "title",
+            "source": "H3 text case",
+            "target": "H3 大小写"
+        },
+        {
+            "type": "title",
+            "source": "H3 divider",
+            "target": "H3 分割线"
+        },
+        {
+            "type": "title",
+            "source": "Level 4 Headings",
+            "target": "四级标题"
+        },
+        {
+            "type": "title",
+            "source": "H4 color",
+            "target": "H4 颜色"
+        },
+        {
+            "type": "title",
+            "source": "H4 font",
+            "target": "H4 字体"
+        },
+        {
+            "type": "title",
+            "source": "H4 font size",
+            "target": "H4 字号"
+        },
+        {
+            "type": "title",
+            "source": "H4 font weight",
+            "target": "H4 字重"
+        },
+        {
+            "type": "title",
+            "source": "H4 font variant",
+            "target": "H4 字体变体"
+        },
+        {
+            "type": "title",
+            "source": "H4 font style",
+            "target": "H4 字体样式"
+        },
+        {
+            "type": "title",
+            "source": "H4 text case",
+            "target": "H4 大小写"
+        },
+        {
+            "type": "title",
+            "source": "H4 divider",
+            "target": "H4 分割线"
+        },
+        {
+            "type": "title",
+            "source": "Level 5 Headings",
+            "target": "五级标题"
+        },
+        {
+            "type": "title",
+            "source": "H5 color",
+            "target": "H5 颜色"
+        },
+        {
+            "type": "title",
+            "source": "H5 font",
+            "target": "H5 字体"
+        },
+        {
+            "type": "title",
+            "source": "H5 font size",
+            "target": "H5 字号"
+        },
+        {
+            "type": "title",
+            "source": "H5 font weight",
+            "target": "H5 字重"
+        },
+        {
+            "type": "title",
+            "source": "H5 font variant",
+            "target": "H5 字体变体"
+        },
+        {
+            "type": "title",
+            "source": "H5 font style",
+            "target": "H5 字体样式"
+        },
+        {
+            "type": "title",
+            "source": "H5 text case",
+            "target": "H5 大小写"
+        },
+        {
+            "type": "title",
+            "source": "H5 divider",
+            "target": "H5 分割线"
+        },
+        {
+            "type": "title",
+            "source": "Level 6 Headings",
+            "target": "六级标题"
+        },
+        {
+            "type": "title",
+            "source": "H6 color",
+            "target": "H6 颜色"
+        },
+        {
+            "type": "title",
+            "source": "H6 font",
+            "target": "H6 字体"
+        },
+        {
+            "type": "title",
+            "source": "H6 font size",
+            "target": "H6 字号"
+        },
+        {
+            "type": "title",
+            "source": "H6 font weight",
+            "target": "H6 字重"
+        },
+        {
+            "type": "title",
+            "source": "H6 font variant",
+            "target": "H6 字体变体"
+        },
+        {
+            "type": "title",
+            "source": "H6 font style",
+            "target": "H6 字体样式"
+        },
+        {
+            "type": "title",
+            "source": "H6 text case",
+            "target": "H6 大小写"
+        },
+        {
+            "type": "title",
+            "source": "H6 divider",
+            "target": "H6 分割线"
+        },
+        {
+            "type": "title",
+            "source": "Horizontal rule",
+            "target": "分割线"
+        },
+        {
+            "type": "title",
+            "source": "Horizontal rule color",
+            "target": "分割线颜色"
+        },
+        {
+            "type": "title",
+            "source": "Horizontal rule width",
+            "target": "分割线宽度"
+        },
+        {
+            "type": "title",
+            "source": "Horizontal rule thickness",
+            "target": "分割线粗细"
+        },
+        {
+            "type": "title",
+            "source": "Horizontal rule alignment",
+            "target": "分割线对齐"
+        },
+        {
+            "type": "label",
+            "source": "Start",
+            "target": "Start"
+        },
+        {
+            "type": "label",
+            "source": "End",
+            "target": "End"
+        },
+        {
+            "type": "title",
+            "source": "Dashed horizontal rule",
+            "target": "虚线分割线"
+        },
+        {
+            "type": "title",
+            "source": "Dashed line size",
+            "target": "虚线长度"
+        },
+        {
+            "type": "title",
+            "source": "Dashed line spacing",
+            "target": "虚线间距"
+        },
+        {
+            "type": "title",
+            "source": "Banner",
+            "target": "Banner"
+        },
+        {
+            "type": "title",
+            "source": "Disable banner",
+            "target": "禁用 Banner"
+        },
+        {
+            "type": "title",
+            "source": "Banner icon size",
+            "target": "Banner 图标大小"
+        },
+        {
+            "type": "title",
+            "source": "Banner image height",
+            "target": "Banner 图片高度"
+        },
+        {
+            "type": "title",
+            "source": "Banner image height (Mobile)",
+            "target": "Banner 图片高度（移动端）"
+        },
+        {
+            "type": "title",
+            "source": "Banner image side spacing",
+            "target": "Banner 图片侧边间距"
+        },
+        {
+            "type": "title",
+            "source": "Banner image radius",
+            "target": "Banner 图片圆角"
+        },
+        {
+            "type": "title",
+            "source": "Banner image fit",
+            "target": "Banner 图片适应方式"
+        },
+        {
+            "type": "label",
+            "source": "Cover",
+            "target": "Cover"
+        },
+        {
+            "type": "label",
+            "source": "Contain",
+            "target": "Contain"
+        },
+        {
+            "type": "label",
+            "source": "Fill",
+            "target": "Fill"
+        },
+        {
+            "type": "title",
+            "source": "Bases",
+            "target": "数据库"
+        },
+        {
+            "type": "title",
+            "source": "Toolbar text label",
+            "target": "工具栏文本标签"
+        },
+        {
+            "type": "label",
+            "source": "Visible",
+            "target": "Visible"
+        },
+        {
+            "type": "title",
+            "source": "Table header icons",
+            "target": "表头图标"
+        },
+        {
+            "type": "title",
+            "source": "Table vertical alignment",
+            "target": "表格垂直对齐"
+        },
+        {
+            "type": "title",
+            "source": "Alternating row background",
+            "target": "行间隔背景"
+        },
+        {
+            "type": "title",
+            "source": "Alternating column background",
+            "target": "列间隔背景"
+        },
+        {
+            "type": "title",
+            "source": "Blockquotes",
+            "target": "引用框"
+        },
+        {
+            "type": "title",
+            "source": "Blockquote style",
+            "target": "引用框样式"
+        },
+        {
+            "type": "title",
+            "source": "Blockquote border thickness",
+            "target": "引用框边框粗细"
+        },
+        {
+            "type": "title",
+            "source": "Blockquote font size",
+            "target": "引用框字体大小"
+        },
+        {
+            "type": "title",
+            "source": "Blockquote font style",
+            "target": "引用框字体样式"
+        },
+        {
+            "type": "title",
+            "source": "Blockquote text color",
+            "target": "引用框文字颜色"
+        },
+        {
+            "type": "title",
+            "source": "Blockquote background",
+            "target": "引用框背景"
+        },
+        {
+            "type": "title",
+            "source": "Blockquote border color",
+            "target": "引用框边框颜色"
+        },
+        {
+            "type": "title",
+            "source": "Cards",
+            "target": "卡片"
+        },
+        {
+            "type": "title",
+            "source": "Card minimum width",
+            "target": "卡片最小宽度"
+        },
+        {
+            "type": "title",
+            "source": "Card maximum width",
+            "target": "卡片最大宽度"
+        },
+        {
+            "type": "title",
+            "source": "Card minimum width (Mobile)",
+            "target": "卡片最小宽度（移动端）"
+        },
+        {
+            "type": "title",
+            "source": "Card padding",
+            "target": "卡片内边距"
+        },
+        {
+            "type": "title",
+            "source": "Card maximum image height",
+            "target": "卡片图片最大高度"
+        },
+        {
+            "type": "title",
+            "source": "Card background",
+            "target": "卡片背景"
+        },
+        {
+            "type": "title",
+            "source": "Card background (Hover)",
+            "target": "卡片背景（悬停）"
+        },
+        {
+            "type": "title",
+            "source": "Callouts",
+            "target": "注释框"
+        },
+        {
+            "type": "title",
+            "source": "Callout style",
+            "target": "注释框样式"
+        },
+        {
+            "type": "label",
+            "source": "Filled",
+            "target": "Filled"
+        },
+        {
+            "type": "label",
+            "source": "Padded",
+            "target": "Padded"
+        },
+        {
+            "type": "label",
+            "source": "Outlined",
+            "target": "Outlined"
+        },
+        {
+            "type": "title",
+            "source": "Callout font size",
+            "target": "注释框字体大小"
+        },
+        {
+            "type": "title",
+            "source": "Disable custom icons",
+            "target": "Disable custom icons"
+        },
+        {
+            "type": "description",
+            "source": "Use default Lucide icons in callouts.",
+            "target": "Use default Lucide icons in callouts."
+        },
+        {
+            "type": "title",
+            "source": "Canvas",
+            "target": "画布"
+        },
+        {
+            "type": "title",
+            "source": "Canvas background",
+            "target": "画布背景"
+        },
+        {
+            "type": "title",
+            "source": "Canvas dot pattern",
+            "target": "画布点状图案"
+        },
+        {
+            "type": "title",
+            "source": "Code",
+            "target": "代码"
+        },
+        {
+            "type": "title",
+            "source": "Code style",
+            "target": "代码块样式"
+        },
+        {
+            "type": "title",
+            "source": "Code font size",
+            "target": "代码字体大小"
+        },
+        {
+            "type": "title",
+            "source": "Code background",
+            "target": "代码背景"
+        },
+        {
+            "type": "title",
+            "source": "Code line numbers",
+            "target": "代码行号"
+        },
+        {
+            "type": "title",
+            "source": "Embeds",
+            "target": "嵌入块"
+        },
+        {
+            "type": "title",
+            "source": "Embed maximum height",
+            "target": "嵌入最大高度"
+        },
+        {
+            "type": "title",
+            "source": "Embed style",
+            "target": "嵌入样式"
+        },
+        {
+            "type": "label",
+            "source": "Clean",
+            "target": "Clean"
+        },
+        {
+            "type": "title",
+            "source": "Embed background",
+            "target": "嵌入背景"
+        },
+        {
+            "type": "title",
+            "source": "Embed border color",
+            "target": "嵌入边框颜色"
+        },
+        {
+            "type": "title",
+            "source": "Embed border thickness",
+            "target": "嵌入边框粗细"
+        },
+        {
+            "type": "title",
+            "source": "Hide embed titles",
+            "target": "隐藏嵌入标题"
+        },
+        {
+            "type": "title",
+            "source": "Links",
+            "target": "链接"
+        },
+        {
+            "type": "title",
+            "source": "Internal link color",
+            "target": "内部链接颜色"
+        },
+        {
+            "type": "title",
+            "source": "Internal link color (Hover)",
+            "target": "内部链接颜色（悬停）"
+        },
+        {
+            "type": "title",
+            "source": "Internal link underline",
+            "target": "内部链接下划线"
+        },
+        {
+            "type": "title",
+            "source": "External link color",
+            "target": "外部链接颜色"
+        },
+        {
+            "type": "title",
+            "source": "External link color (Hover)",
+            "target": "外部链接颜色（悬停）"
+        },
+        {
+            "type": "title",
+            "source": "External link underline",
+            "target": "外部链接下划线"
+        },
+        {
+            "type": "title",
+            "source": "Lists & Tasks",
+            "target": "列表与任务"
+        },
+        {
+            "type": "title",
+            "source": "List spacing",
+            "target": "列表间距"
+        },
+        {
+            "type": "title",
+            "source": "List order style",
+            "target": "有序列表样式"
+        },
+        {
+            "type": "label",
+            "source": "Decimal",
+            "target": "十进制"
+        },
+        {
+            "type": "label",
+            "source": "Decimal with leading zeroes",
+            "target": "补零十进制"
+        },
+        {
+            "type": "label",
+            "source": "Lowercase alphabetical",
+            "target": "小写字母"
+        },
+        {
+            "type": "label",
+            "source": "Uppercase alphabetical",
+            "target": "大写字母"
+        },
+        {
+            "type": "label",
+            "source": "Lowercase Roman Numerals",
+            "target": "小写罗马数字"
+        },
+        {
+            "type": "label",
+            "source": "Uppercase Roman Numerals",
+            "target": "大写罗马数字"
+        },
+        {
+            "type": "label",
+            "source": "Lowercase Latin",
+            "target": "小写拉丁字母"
+        },
+        {
+            "type": "label",
+            "source": "Uppercase Latin",
+            "target": "大写拉丁字母"
+        },
+        {
+            "type": "label",
+            "source": "Lowercase Greek",
+            "target": "小写希腊字母"
+        },
+        {
+            "type": "label",
+            "source": "Uppercase Greek",
+            "target": "大写希腊字母"
+        },
+        {
+            "type": "label",
+            "source": "Hiragana",
+            "target": "平假名"
+        },
+        {
+            "type": "label",
+            "source": "Hiragana Iroha",
+            "target": "平假名（伊吕波）"
+        },
+        {
+            "type": "label",
+            "source": "Katakana",
+            "target": "片假名"
+        },
+        {
+            "type": "label",
+            "source": "Katakana Iroha",
+            "target": "片假名（伊吕波）"
+        },
+        {
+            "type": "label",
+            "source": "Armenian",
+            "target": "亚美尼亚文"
+        },
+        {
+            "type": "label",
+            "source": "CJK Ideographic",
+            "target": "中日韩表意文字"
+        },
+        {
+            "type": "label",
+            "source": "Hebrew",
+            "target": "希伯来文"
+        },
+        {
+            "type": "title",
+            "source": "List bullet color",
+            "target": "列表项目符号颜色"
+        },
+        {
+            "type": "title",
+            "source": "Checkbox color",
+            "target": "复选框颜色"
+        },
+        {
+            "type": "title",
+            "source": "Checkbox shape",
+            "target": "复选框形状"
+        },
+        {
+            "type": "label",
+            "source": "Rounded",
+            "target": "Rounded"
+        },
+        {
+            "type": "label",
+            "source": "Circle",
+            "target": "Circle"
+        },
+        {
+            "type": "title",
+            "source": "Disable checkbox strikethrough",
+            "target": "禁用勾选删除线"
+        },
+        {
+            "type": "title",
+            "source": "Media",
+            "target": "媒体"
+        },
+        {
+            "type": "title",
+            "source": "Image grids",
+            "target": "图片网格"
+        },
+        {
+            "type": "title",
+            "source": "Image grids spacing",
+            "target": "图片网格间距"
+        },
+        {
+            "type": "title",
+            "source": "Media radius",
+            "target": "媒体圆角"
+        },
+        {
+            "type": "title",
+            "source": "Media dimming opacity in dark mode",
+            "target": "深色模式媒体变暗不透明度"
+        },
+        {
+            "type": "title",
+            "source": "Disable maximized media",
+            "target": "禁用媒体最大化"
+        },
+        {
+            "type": "title",
+            "source": "Disable image zoom",
+            "target": "禁用图片缩放"
+        },
+        {
+            "type": "title",
+            "source": "PDF",
+            "target": "PDF"
+        },
+        {
+            "type": "title",
+            "source": "PDF page style",
+            "target": "PDF 页面样式"
+        },
+        {
+            "type": "label",
+            "source": "Seamless",
+            "target": "Seamless"
+        },
+        {
+            "type": "label",
+            "source": "Shadow",
+            "target": "Shadow"
+        },
+        {
+            "type": "title",
+            "source": "PDF dimming opacity in dark mode",
+            "target": "深色模式 PDF 变暗不透明度"
+        },
+        {
+            "type": "title",
+            "source": "Invert PDF in dark mode",
+            "target": "深色模式反相 PDF"
+        },
+        {
+            "type": "title",
+            "source": "Tables",
+            "target": "表格"
+        },
+        {
+            "type": "title",
+            "source": "Table font size",
+            "target": "表格字体大小"
+        },
+        {
+            "type": "title",
+            "source": "Table width",
+            "target": "表格宽度"
+        },
+        {
+            "type": "title",
+            "source": "Table header text alignment",
+            "target": "表头文字对齐"
+        },
+        {
+            "type": "title",
+            "source": "Table body text alignment",
+            "target": "表体文字对齐"
+        },
+        {
+            "type": "title",
+            "source": "Highlight hovered row",
+            "target": "高亮悬停行"
+        },
+        {
+            "type": "title",
+            "source": "Alternating columns background",
+            "target": "列交替背景"
+        },
+        {
+            "type": "title",
+            "source": "Always show table frame",
+            "target": "始终显示表格边框"
+        },
+        {
+            "type": "title",
+            "source": "Always show row border",
+            "target": "始终显示行边框"
+        },
+        {
+            "type": "title",
+            "source": "Always show column border",
+            "target": "始终显示列表边框"
+        },
+        {
+            "type": "title",
+            "source": "Row line numbers",
+            "target": "行号"
+        },
+        {
+            "type": "title",
+            "source": "Fixed-width tabular figures",
+            "target": "等宽表格数字"
+        },
+        {
+            "type": "title",
+            "source": "Tags",
+            "target": "标签"
+        },
+        {
+            "type": "title",
+            "source": "Plain tags",
+            "target": "纯文本标签"
+        },
+        {
+            "type": "description",
+            "source": "Display tags as normal text.",
+            "target": "Display tags as normal text."
+        },
+        {
+            "type": "title",
+            "source": "Tag shape",
+            "target": "标签形状"
+        },
+        {
+            "type": "label",
+            "source": "Pill",
+            "target": "Pill"
+        },
+        {
+            "type": "label",
+            "source": "Square",
+            "target": "Square"
+        },
+        {
+            "type": "title",
+            "source": "Tag border thickness",
+            "target": "标签边框粗细"
+        },
+        {
+            "type": "title",
+            "source": "Tag text color",
+            "target": "标签文字颜色"
+        },
+        {
+            "type": "title",
+            "source": "Tag background",
+            "target": "标签背景"
+        },
+        {
+            "type": "title",
+            "source": "Tag background (Hover)",
+            "target": "标签背景（悬停）"
+        }
+    ]
+}
