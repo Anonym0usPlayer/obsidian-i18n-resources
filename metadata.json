@@ -6,10 +6,10 @@
         "version": "3.2.7.1",
         "supported_versions": "3.2.7.1",
         "title": "Baseline",
-        "description": "Baseline Localization & Tweaks",
-        "hash": "7c791ac77c791ac77c791ac77c791ac7",
+        "description": "Baseline i18n汉化文件",
+        "hash": "39d9b26639d9b26639d9b26639d9b266",
         "created_at": "2026-03-15T08:46:50.858Z",
-        "updated_at": "2026-03-15T08:46:50.858Z",
+        "updated_at": "2026-03-17T01:21:14.998Z",
         "type": "theme"
     },
     {
