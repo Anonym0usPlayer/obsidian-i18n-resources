@@ -6,8 +6,8 @@
         "version": "1.0.0",
         "supportedVersions": "3.2.7.1",
         "title": "Baseline",
-        "description": "Baseline Localization & Tweaks",
-        "author": ""
+        "description": "Baseline i18n汉化文件",
+        "author": "Anonym0usPlayer"
     },
     "dict": [
         {
