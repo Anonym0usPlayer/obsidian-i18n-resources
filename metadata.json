@@ -24,5 +24,18 @@
         "created_at": "2026-03-15T09:10:38.205Z",
         "updated_at": "2026-03-15T09:10:38.205Z",
         "type": "plugin"
+    },
+    {
+        "id": "CnQY_XANDBNh1MZS3w6aBEJz273-6nhL",
+        "plugin": "css-editor",
+        "language": "zh-cn",
+        "version": "1.13.2",
+        "supported_versions": "1.13.2",
+        "title": "CSS Editor",
+        "description": "CSS Editor i18n汉化文件",
+        "hash": "3c9157bb3c9157bb3c9157bb3c9157bb",
+        "created_at": "2026-03-17T10:40:08.931Z",
+        "updated_at": "2026-03-17T10:40:08.931Z",
+        "type": "plugin"
     }
 ]
