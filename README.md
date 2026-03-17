@@ -1,3 +1,3 @@
 # obsidian-i18n-resources
 
-标题将作为该翻译在社区中的主名称。
+自用Obsidian汉化仓库
