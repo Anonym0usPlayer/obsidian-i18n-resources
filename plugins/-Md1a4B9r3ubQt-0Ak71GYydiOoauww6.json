@@ -4,7 +4,7 @@
         "plugin": "manual-sorting",
         "version": "1.0.0",
         "title": "Manual Sorting",
-        "description": "Drag'n'Drop file sorting.",
+        "description": "拖放文件排序。",
         "language": "zh-cn",
         "supportedVersions": "3.2.4",
         "author": "Anonym0usPlayer"
