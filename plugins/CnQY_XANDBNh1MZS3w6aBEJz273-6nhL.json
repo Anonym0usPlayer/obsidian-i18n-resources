@@ -4,7 +4,7 @@
         "plugin": "css-editor",
         "version": "1.0.0",
         "title": "CSS Editor",
-        "description": "CSS Editor i18n汉化文件",
+        "description": "编辑CSS片段",
         "language": "zh-cn",
         "supportedVersions": "1.13.2",
         "author": "Anonym0usPlayer"
