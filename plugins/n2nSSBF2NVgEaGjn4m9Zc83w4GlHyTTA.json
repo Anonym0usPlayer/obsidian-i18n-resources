@@ -1,0 +1,226 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "obsidian-quiet-outline",
+        "version": "1.0.0",
+        "title": "Quiet Outline",
+        "description": "Quiet Outline Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "0.5.12",
+        "author": "Anonym0usPlayer"
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Specific text of heading",
+                    "target": "标题文本"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "addOption",
+                    "source": "Obsidian Language",
+                    "target": "Obsidian 语言"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "[css-render/mount]: `id` is required in `boost` mode.",
+                    "target": "[css-render/mount]: 在 `boost` 模式下需要 `id`。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setTooltip",
+                    "source": "release doc 0.3.32",
+                    "target": "发布文档 0.3.32"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "No file in markdown view",
+                    "target": "无 Markdown 文件"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Headings copied",
+                    "target": "标题已复制"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "description",
+                    "source": "No Data",
+                    "target": "无数据"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Quiet Outline",
+                    "target": "静默大纲"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Focus Heading Tree",
+                    "target": "聚焦标题树"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Reset expanding level",
+                    "target": "重置展开级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Focus on input",
+                    "target": "聚焦输入"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Copy Current Headings As Text",
+                    "target": "复制当前标题为文本"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Increase Level",
+                    "target": "增加级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Decrease Level",
+                    "target": "减少级别"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "To previous heading",
+                    "target": "上一个标题"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "To next heading",
+                    "target": "下一个标题"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Please Select",
+                    "target": "请选择"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Select Time",
+                    "target": "选择时间"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "placeholder",
+                    "source": "Please Input",
+                    "target": "请输入"
+                }
+            ],
+            "regex": [
+                {
+                    "source": "Notice(`No file in markdown view`)",
+                    "target": "Notice(`No file in markdown view`)"
+                },
+                {
+                    "source": "error(`[evtd/create-trap-handler]: name \\`${e}\\` is invalid. This could be a bug of evtd.`)",
+                    "target": "error(`[evtd/create-trap-handler]: name \\`${e}\\` is invalid. This could be a bug of evtd.`)"
+                },
+                {
+                    "source": "error(`[vdirs/${e}]: ${t}`)",
+                    "target": "error(`[vdirs/${e}]: ${t}`)"
+                },
+                {
+                    "source": "error(`[vueuc/${e}]: ${t}`)",
+                    "target": "error(`[vueuc/${e}]: ${t}`)"
+                },
+                {
+                    "source": "error(`[naive/${e}]: ${t}`)",
+                    "target": "error(`[naive/${e}]: ${t}`)"
+                },
+                {
+                    "source": "error(`[css-render/unmount]: The style with target='${n}' is mounted in count mode.`)",
+                    "target": "error(`[css-render/unmount]: The style with target='${n}' is mounted in count mode.`)"
+                },
+                {
+                    "source": "error(`[css-render/unmount]: The style with target='${n}' is mounted in no-count mode.`)",
+                    "target": "error(`[css-render/unmount]: The style with target='${n}' is mounted in no-count mode.`)"
+                },
+                {
+                    "source": "error(\"[css-render/mount]: `id` is required in `boost` mode.\")",
+                    "target": "error(\"[css-render/mount]: `id` is required in `boost` mode.\")"
+                },
+                {
+                    "source": "error(`[css-render/mount]: The style with id='${n}' has been mounted in no-count mode.`)",
+                    "target": "error(`[css-render/mount]: The style with id='${n}' has been mounted in no-count mode.`)"
+                },
+                {
+                    "source": "error(`[css-render/mount]: The style with id='${n}' has been mounted in count mode.`)",
+                    "target": "error(`[css-render/mount]: The style with id='${n}' has been mounted in count mode.`)"
+                },
+                {
+                    "source": "setTooltip(`release doc 0.3.32`)",
+                    "target": "setTooltip(`release doc 0.3.32`)"
+                },
+                {
+                    "source": "error(`Failed to save data to ${n}: ${e}`)",
+                    "target": "error(`Failed to save data to ${n}: ${e}`)"
+                },
+                {
+                    "source": "Notice(`Headings copied`)",
+                    "target": "Notice(`Headings copied`)"
+                },
+                {
+                    "source": "description:`No Data`",
+                    "target": "description:`No Data`"
+                },
+                {
+                    "source": "name:`Quiet Outline`",
+                    "target": "name:`Quiet Outline`"
+                },
+                {
+                    "source": "name:`Focus Heading Tree`",
+                    "target": "name:`Focus Heading Tree`"
+                },
+                {
+                    "source": "name:`Reset expanding level`",
+                    "target": "name:`Reset expanding level`"
+                },
+                {
+                    "source": "name:`Focus on input`",
+                    "target": "name:`Focus on input`"
+                },
+                {
+                    "source": "name:`Copy Current Headings As Text`",
+                    "target": "name:`Copy Current Headings As Text`"
+                },
+                {
+                    "source": "name:`Increase Level`",
+                    "target": "name:`Increase Level`"
+                },
+                {
+                    "source": "name:`Decrease Level`",
+                    "target": "name:`Decrease Level`"
+                },
+                {
+                    "source": "name:`To previous heading`",
+                    "target": "name:`To previous heading`"
+                },
+                {
+                    "source": "name:`To next heading`",
+                    "target": "name:`To next heading`"
+                }
+            ]
+        }
+    }
+}
