@@ -980,12 +980,6 @@
                 },
                 {
                     "type": "CallExpression",
-                    "name": "log",
-                    "source": "editingToolbar v",
-                    "target": "editingToolbar v"
-                },
-                {
-                    "type": "CallExpression",
                     "name": "error",
                     "source": "Import error:",
                     "target": "导入错误:"
@@ -1313,12 +1307,6 @@
                     "name": "setText",
                     "source": "overwrite",
                     "target": "overwrite"
-                },
-                {
-                    "type": "CallExpression",
-                    "name": "setText",
-                    "source": "${t.Platform.isMacOS?",
-                    "target": "${t.Platform.isMacOS?"
                 },
                 {
                     "type": "CallExpression",
