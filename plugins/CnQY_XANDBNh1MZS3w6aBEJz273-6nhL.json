@@ -299,6 +299,10 @@
                 {
                     "source": "\"enabled\":\"disabled\"",
                     "target": "\"开启\":\"关闭\""
+                },
+                {
+                    "source": "\"css-editor-logo\",\"Open CSS editor quick switcher\"",
+                    "target": "\"css-editor-logo\",\"打开CSS编辑器快速切换器\""
                 }
             ]
         }
