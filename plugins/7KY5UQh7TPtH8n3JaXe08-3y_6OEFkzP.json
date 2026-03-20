@@ -21,18 +21,6 @@
                 {
                     "type": "CallExpression",
                     "name": "appendText",
-                    "source": ": ",
-                    "target": ": "
-                },
-                {
-                    "type": "CallExpression",
-                    "name": "appendText",
-                    "source": ", ",
-                    "target": ", "
-                },
-                {
-                    "type": "CallExpression",
-                    "name": "appendText",
                     "source": "If enabled, Dataview will automatically append tasks with their completion date when they are checked in Dataview views.",
                     "target": "启用后，当任务在 Dataview 视图中被勾选时，Dataview 会自动附加完成日期。"
                 },
