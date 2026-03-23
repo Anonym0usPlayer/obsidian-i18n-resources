@@ -1168,7 +1168,7 @@
         {
             "type": "description",
             "source": "Disable plugins grid layout.",
-            "target": "Disable plugins grid layout."
+            "target": "禁用插件网格布局。"
         },
         {
             "type": "title",
@@ -1213,7 +1213,7 @@
         {
             "type": "description",
             "source": "Requires **Translucent window** in **Appearance** settings.",
-            "target": "Requires **Translucent window** in **Appearance** settings."
+            "target": "需要在“外观”设置中启用“半透明窗口”。"
         },
         {
             "type": "title",
@@ -2033,12 +2033,12 @@
         {
             "type": "title",
             "source": "Disable custom icons",
-            "target": "Disable custom icons"
+            "target": "禁用自定义图标"
         },
         {
             "type": "description",
             "source": "Use default Lucide icons in callouts.",
-            "target": "Use default Lucide icons in callouts."
+            "target": "在提示中使用默认的Lucide图标。"
         },
         {
             "type": "title",
@@ -2423,7 +2423,7 @@
         {
             "type": "description",
             "source": "Display tags as normal text.",
-            "target": "Display tags as normal text."
+            "target": "将标签显示为普通文本。"
         },
         {
             "type": "title",
