@@ -825,10 +825,6 @@
                 {
                     "source": "message:\"Unknown error occurred\";",
                     "target": "message:\"发生未知错误\";"
-                },
-                {
-                    "source": "`Error ${t?\"updating\":\"adding\"} plugin ${e}: ${m}`",
-                    "target": "`错误 ${t?\"updating\":\"adding\"} 插件 ${e}: ${m}`"
                 }
             ]
         }
