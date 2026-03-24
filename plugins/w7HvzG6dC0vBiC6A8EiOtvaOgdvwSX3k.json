@@ -15,12 +15,6 @@
                 {
                     "type": "AssignmentExpression",
                     "name": "textContent",
-                    "source": "abc def ghi jkl mno pqr stu",
-                    "target": "abc def ghi jkl mno pqr stu"
-                },
-                {
-                    "type": "AssignmentExpression",
-                    "name": "textContent",
                     "source": "已复制!",
                     "target": "已复制!"
                 },
@@ -1304,18 +1298,6 @@
                 },
                 {
                     "type": "CallExpression",
-                    "name": "setText",
-                    "source": "overwrite",
-                    "target": "overwrite"
-                },
-                {
-                    "type": "CallExpression",
-                    "name": "setButtonText",
-                    "source": "overwrite",
-                    "target": "overwrite"
-                },
-                {
-                    "type": "CallExpression",
                     "name": "setTooltip",
                     "source": "Copy commands from selected style",
                     "target": "从所选样式复制命令"
@@ -1369,42 +1351,6 @@
                 {
                     "source": "p aligin=\"right\">'",
                     "target": "p aligin=\"右对齐\">"
-                },
-                {
-                    "source": "hrline:{",
-                    "target": "分割线:{"
-                },
-                {
-                    "source": "justify:{",
-                    "target": "两端对齐:{"
-                },
-                {
-                    "source": "left:{",
-                    "target": "左对齐:{"
-                },
-                {
-                    "source": "right:{",
-                    "target": "右对齐:{"
-                },
-                {
-                    "source": "center:{",
-                    "target": "居中:{"
-                },
-                {
-                    "source": "underline:{",
-                    "target": "下划线:{"
-                },
-                {
-                    "source": "superscript:{",
-                    "target": "上标:{"
-                },
-                {
-                    "source": "subscript:{",
-                    "target": "下标:{"
-                },
-                {
-                    "source": "codeblock:{",
-                    "target": "代码块:{"
                 },
                 {
                     "source": ">Standard Colors<",
