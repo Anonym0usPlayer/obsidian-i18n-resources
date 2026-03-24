@@ -813,6 +813,22 @@
                 {
                     "source": "prependText:\"Set a personal access token to increase rate limits for public repositories on GitHub. You can create one in \"",
                     "target": "prependText:\"Set a personal access token to increase rate limits for public repositories on GitHub. You can create one in \""
+                },
+                {
+                    "source": "`No update available for ${e}`",
+                    "target": "`对于 ${e} 没有可用的更新`"
+                },
+                {
+                    "source": "`BRAT: Error adding plugin ${e}:`",
+                    "target": "`BRAT: 添加插件 ${e} 错误：`"
+                },
+                {
+                    "source": "message:\"Unknown error occurred\";",
+                    "target": "message:\"发生未知错误\";"
+                },
+                {
+                    "source": "`Error ${t?\"updating\":\"adding\"} plugin ${e}: ${m}`",
+                    "target": "`错误 ${t?\"updating\":\"adding\"} 插件 ${e}: ${m}`"
                 }
             ]
         }
