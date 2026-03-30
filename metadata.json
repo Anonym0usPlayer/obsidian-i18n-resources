@@ -6,10 +6,10 @@
         "version": "3.2.7.1",
         "supported_versions": "3.2.7.1",
         "title": "Baseline",
-        "description": "",
-        "hash": "49cb581649cb581649cb581649cb5816",
+        "description": "Baseline i18n汉化文件",
+        "hash": "500da642500da642500da642500da642",
         "created_at": "2026-03-15T08:46:50.858Z",
-        "updated_at": "2026-03-23T01:54:34.162Z",
+        "updated_at": "2026-03-30T07:13:42.993Z",
         "type": "theme"
     },
     {
