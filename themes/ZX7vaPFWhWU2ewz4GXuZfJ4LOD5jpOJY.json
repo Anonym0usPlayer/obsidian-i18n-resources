@@ -2653,12 +2653,12 @@
         {
             "type": "title",
             "source": "Dim PDF pages in dark mode",
-            "target": "将PDF页面设为深色模式"
+            "target": "PDF 页面设为深色模式"
         },
         {
             "type": "title",
             "source": "Disable rounded PDF pages",
-            "target": "禁用PDF页面圆角"
+            "target": "禁用 PDF 页面圆角"
         }
     ]
 }
