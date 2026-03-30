@@ -2459,6 +2459,206 @@
             "type": "title",
             "source": "Tag background (Hover)",
             "target": "标签背景（悬停）"
+        },
+        {
+            "type": "description",
+            "source": "Migrate **existing Style Settings** from supported themes. ↗[](https://aaaaalexis.github.io/obsidian-baseline/migration/)",
+            "target": "迁移 **已有的样式设置** 从支持的主题。 ↗[](https://aaaaalexis.github.io/obsidian-baseline/migration/)"
+        },
+        {
+            "type": "title",
+            "source": "Community presets",
+            "target": "社区预设"
+        },
+        {
+            "type": "description",
+            "source": "Discover Style Settings presets in **Baseline Marketplace**. ↗[](https://aaaaalexis.github.io/obsidian-baseline/marketplace/)",
+            "target": "在 **Baseline Marketplace** 中发现样式设置预设。 ↗[](https://aaaaalexis.github.io/obsidian-baseline/marketplace/)"
+        },
+        {
+            "type": "description",
+            "source": "Heading font missing glyphs? Get **extended font CSS snippet**. ↗[](https://github.com/aaaaalexis/obsidian-baseline/blob/main/snippets/baseline-extension-font.css)",
+            "target": "标题字体缺少字形？获取 **扩展字体CSS片段**。 ↗[](https://github.com/aaaaalexis/obsidian-baseline/blob/main/snippets/baseline-extension-font.css)"
+        },
+        {
+            "type": "title",
+            "source": "Interface colors",
+            "target": "界面颜色"
+        },
+        {
+            "type": "title",
+            "source": "On primary background",
+            "target": "在主要背景上"
+        },
+        {
+            "type": "title",
+            "source": "On secondary background",
+            "target": "在次要背景上"
+        },
+        {
+            "type": "title",
+            "source": "Divider color",
+            "target": "分隔线颜色"
+        },
+        {
+            "type": "description",
+            "source": "Used in separating tabs and sidebars.",
+            "target": "用于分隔标签页和侧边栏。"
+        },
+        {
+            "type": "title",
+            "source": "Hover background",
+            "target": "悬停背景"
+        },
+        {
+            "type": "title",
+            "source": "Borders",
+            "target": "边框"
+        },
+        {
+            "type": "title",
+            "source": "Elements",
+            "target": "元素"
+        },
+        {
+            "type": "title",
+            "source": "Interaction background",
+            "target": "交互背景"
+        },
+        {
+            "type": "description",
+            "source": "Used in buttons, dropdowns, and text inputs.",
+            "target": "用于按钮、下拉菜单和文本输入框。"
+        },
+        {
+            "type": "title",
+            "source": "Interaction background (Hover)",
+            "target": "交互背景（悬停）"
+        },
+        {
+            "type": "title",
+            "source": "Dialog",
+            "target": "对话"
+        },
+        {
+            "type": "title",
+            "source": "Command palette background",
+            "target": "命令面板背景"
+        },
+        {
+            "type": "title",
+            "source": "Menu background",
+            "target": "菜单背景"
+        },
+        {
+            "type": "title",
+            "source": "Modal background",
+            "target": "模态背景"
+        },
+        {
+            "type": "title",
+            "source": "Hover trigger area",
+            "target": "悬停触发区域"
+        },
+        {
+            "type": "title",
+            "source": "Informative full screen",
+            "target": "信息全屏显示"
+        },
+        {
+            "type": "description",
+            "source": "Display current page title when interface elements are hidden.",
+            "target": "当界面元素被隐藏时，显示当前页面标题。"
+        },
+        {
+            "type": "description",
+            "source": "Display editor mode toggle at the top of the editor.",
+            "target": "在编辑器顶部显示编辑模式切换选项。"
+        },
+        {
+            "type": "title",
+            "source": "Inline title alignment",
+            "target": "内联标题对齐"
+        },
+        {
+            "type": "title",
+            "source": "Add property button visibility",
+            "target": "添加属性按钮可见性"
+        },
+        {
+            "type": "title",
+            "source": "Compact properties",
+            "target": "紧凑的属性"
+        },
+        {
+            "type": "title",
+            "source": "Show list as tags",
+            "target": "以标签形式显示列表"
+        },
+        {
+            "type": "title",
+            "source": "Show longer text",
+            "target": "显示更长的文本"
+        },
+        {
+            "type": "title",
+            "source": "H1 alignment",
+            "target": "H1 对齐"
+        },
+        {
+            "type": "title",
+            "source": "H2 alignment",
+            "target": "H2 对齐"
+        },
+        {
+            "type": "title",
+            "source": "H3 alignment",
+            "target": "H3 对齐"
+        },
+        {
+            "type": "title",
+            "source": "H4 alignment",
+            "target": "H4 对齐"
+        },
+        {
+            "type": "title",
+            "source": "H5 alignment",
+            "target": "H5 对齐"
+        },
+        {
+            "type": "title",
+            "source": "H6 alignment",
+            "target": "H6 对齐"
+        },
+        {
+            "type": "title",
+            "source": "Dim media in dark mode",
+            "target": "深色模式下显示媒体"
+        },
+        {
+            "type": "title",
+            "source": "Disable rounded media",
+            "target": "禁用圆角媒体"
+        },
+        {
+            "type": "label",
+            "source": "Paged",
+            "target": "分页"
+        },
+        {
+            "type": "title",
+            "source": "Invert PDF color in dark mode",
+            "target": "深色模式下反转PDF颜色"
+        },
+        {
+            "type": "title",
+            "source": "Dim PDF pages in dark mode",
+            "target": "将PDF页面设为深色模式"
+        },
+        {
+            "type": "title",
+            "source": "Disable rounded PDF pages",
+            "target": "禁用PDF页面圆角"
         }
     ]
 }
