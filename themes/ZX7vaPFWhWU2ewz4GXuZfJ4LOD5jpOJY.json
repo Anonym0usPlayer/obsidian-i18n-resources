@@ -863,7 +863,7 @@
         {
             "type": "title",
             "source": "Tab title bar",
-            "target": "标签页标题栏"
+            "target": "标签标题栏"
         },
         {
             "type": "description",
@@ -873,7 +873,7 @@
         {
             "type": "title",
             "source": "Tab title visibility",
-            "target": "标签页标题可见性"
+            "target": "标签标题可见性"
         },
         {
             "type": "label",
@@ -893,17 +893,17 @@
         {
             "type": "title",
             "source": "Tab title font size",
-            "target": "标签页标题字体大小"
+            "target": "标签标题字体大小"
         },
         {
             "type": "title",
             "source": "Tab title font weight",
-            "target": "标签页标题字重"
+            "target": "标签标题字重"
         },
         {
             "type": "title",
             "source": "Tab title alignment",
-            "target": "标签页标题对齐"
+            "target": "标签标题对齐"
         },
         {
             "type": "title",
