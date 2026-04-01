@@ -1,3 +1,5 @@
 # obsidian-i18n-resources
 
-自用Obsidian汉化仓库
+## 停止更新插件
+
+- Editing Toolbar
