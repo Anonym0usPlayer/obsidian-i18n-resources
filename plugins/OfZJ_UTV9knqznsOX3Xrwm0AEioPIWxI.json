@@ -942,7 +942,7 @@
                 },
                 {
                     "source": ".setName(`Key trigger for ${r}`)",
-                    "target": ".setName(`按键触发器为${r}`)"
+                    "target": ".setName(`${r}的按键触发器`)"
                 },
                 {
                     "source": ".innerHTML=`What key to press to trigger ${t}. Should follow codemirror keymap syntax such as \"Ctrl-k Ctrl-a\". For more info see <a href=\"https://codemirror.net/docs/ref/#view.KeyBinding\">codemirror keymap documentation</a>.`",
