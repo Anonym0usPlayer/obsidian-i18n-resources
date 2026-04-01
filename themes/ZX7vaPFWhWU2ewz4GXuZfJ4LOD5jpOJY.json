@@ -13,7 +13,7 @@
         {
             "type": "name",
             "source": "Baseline",
-            "target": "Baseline"
+            "target": "基线Baseline"
         },
         {
             "type": "title",
@@ -803,7 +803,7 @@
         {
             "type": "title",
             "source": "Tab stacks",
-            "target": "堆叠标签"
+            "target": "堆叠标签页\n"
         },
         {
             "type": "title",
@@ -813,12 +813,12 @@
         {
             "type": "title",
             "source": "Spine width",
-            "target": "书脊宽度"
+            "target": "轴线宽度"
         },
         {
             "type": "title",
             "source": "Spine text orientation",
-            "target": "书脊文字方向"
+            "target": "轴线文字方向"
         },
         {
             "type": "label",
@@ -848,7 +848,7 @@
         {
             "type": "title",
             "source": "Spine element order",
-            "target": "书脊元素顺序"
+            "target": "轴线元素顺序"
         },
         {
             "type": "label",
