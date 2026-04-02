@@ -1071,12 +1071,6 @@
                 {
                     "type": "CallExpression",
                     "name": "setName",
-                    "source": "Top P",
-                    "target": "Top P"
-                },
-                {
-                    "type": "CallExpression",
-                    "name": "setName",
                     "source": "Frequency Penalty",
                     "target": "频率惩罚"
                 },
@@ -1785,12 +1779,6 @@
                 {
                     "type": "ObjectProperty",
                     "name": "name",
-                    "source": "Hugging Face",
-                    "target": "Hugging Face"
-                },
-                {
-                    "type": "ObjectProperty",
-                    "name": "name",
                     "source": "Run QuickAdd",
                     "target": "运行 QuickAdd"
                 },
@@ -2211,8 +2199,32 @@
                 {
                     "type": "CallExpression",
                     "name": "createSettingGroup",
+                    "source": "Input",
+                    "target": "输入"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createSettingGroup",
+                    "source": "Notifications",
+                    "target": "通知"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createSettingGroup",
+                    "source": "Appearance",
+                    "target": "外观"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "createSettingGroup",
                     "source": "AI & Online",
                     "target": "AI & Online"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Providers",
+                    "target": "提供商"
                 }
             ],
             "regex": [
@@ -3419,6 +3431,18 @@
                 {
                     "source": ".setDesc(\"Bundle or import QuickAdd automations as reusable packages.\")",
                     "target": ".setDesc(\"将QuickAdd自动化作为可重用的包进行捆绑或导入。\")"
+                },
+                {
+                    "source": "\"Input cancelled by user\"",
+                    "target": "\"用户已取消输入\""
+                },
+                {
+                    "source": "\"Provider is missing an endpoint URL.\"",
+                    "target": "\"提供商缺少端点URL。\""
+                },
+                {
+                    "source": "\"Provider /v1/models response did not include any usable models.\"",
+                    "target": "\"提供商/v1/models响应不包含任何可用的模型。\""
                 }
             ]
         }
