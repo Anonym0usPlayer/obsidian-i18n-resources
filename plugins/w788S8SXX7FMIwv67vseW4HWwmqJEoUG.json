@@ -2225,6 +2225,12 @@
                     "name": "setName",
                     "source": "Providers",
                     "target": "提供商"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Task",
+                    "target": "任务"
                 }
             ],
             "regex": [
@@ -3443,6 +3449,14 @@
                 {
                     "source": "\"Provider /v1/models response did not include any usable models.\"",
                     "target": "\"提供商/v1/models响应不包含任何可用的模型。\""
+                },
+                {
+                    "source": "\"Filter choices (fuzzy)\"",
+                    "target": "\"筛选选项（模糊）\""
+                },
+                {
+                    "source": "\"Filter choices\"",
+                    "target": "\"筛选选项\""
                 }
             ]
         }
