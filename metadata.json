@@ -115,5 +115,18 @@
         "created_at": "2026-04-02T17:16:11.890Z",
         "updated_at": "2026-04-03T00:00:48.628Z",
         "type": "plugin"
+    },
+    {
+        "id": "wPdJmFUnsRhO80TOYQDhIsDktxgL6H1Y",
+        "plugin": "jupymd",
+        "language": "zh-cn",
+        "version": "1.5.2",
+        "supported_versions": "1.5.2",
+        "title": "JupyMD",
+        "description": "翻译更新",
+        "hash": "0360850a0360850a0360850a0360850a",
+        "created_at": "2026-04-06T11:22:06.168Z",
+        "updated_at": "2026-04-06T11:22:06.168Z",
+        "type": "plugin"
     }
 ]
