@@ -1,0 +1,418 @@
+{
+    "schemaVersion": 1,
+    "metadata": {
+        "plugin": "jupymd",
+        "version": "1.0.0",
+        "title": "JupyMD",
+        "description": "JupyMD Localization & Tweaks",
+        "language": "zh-cn",
+        "supportedVersions": "1.5.2",
+        "author": ""
+    },
+    "dict": {
+        "main.js": {
+            "ast": [
+                {
+                    "type": "AssignmentExpression",
+                    "name": "textContent",
+                    "source": "Select a Jupyter notebook to convert:",
+                    "target": "选择要转换的 Jupyter 笔记本："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "forceFrameRate takes a positive int between 0 and 125, forcing frame rates higher than 125 fps is not supported",
+                    "target": "forceFrameRate 需要 0 到 125 之间的正整数，不支持强制将帧率设置为高于 125 fps"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error updating notebook:",
+                    "target": "更新笔记本时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Python process stderr:",
+                    "target": "Python 进程 stderr："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Python process error:",
+                    "target": "Python 进程错误："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Sync failed:",
+                    "target": "同步失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error reading notebook:",
+                    "target": "读取笔记本时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error fetching outputs:",
+                    "target": "获取输出时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error executing code:",
+                    "target": "执行代码时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Error clearing outputs:",
+                    "target": "清除输出时出错："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "log",
+                    "source": "Python process closed with code:",
+                    "target": "Python 进程已退出，代码："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Select the Python interpreter. Requires restart to take effect.",
+                    "target": "选择 Python 解释器。需要重启后生效。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Specify the command to launch Jupyter notebooks in your preferred editor (e.g., 'code' for VS Code, 'jupyter-lab' for Jupyter Lab, 'pycharm64.exe' for PyCharm, etc.)",
+                    "target": "指定在首选编辑器中打开 Jupyter 笔记本的命令（例如：VS Code 用 'code'，Jupyter Lab 用 'jupyter-lab'，PyCharm 用 'pycharm64.exe' 等）。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "When disabled, the default Obsidian code block will be used. Requires restart to take effect.",
+                    "target": "禁用时将使用默认的 Obsidian 代码块。需要重启后生效。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "When disabled, linked markdown and Jupyter notebook files will have to be synced manually through the \"JupyMD: Sync files\" command. Disable if experiencing sync issues.",
+                    "target": "禁用时，关联的 markdown 和 Jupyter 笔记本文件需要通过“JupyMD: Sync files”命令手动同步。如遇同步问题请禁用。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "When disabled, changes made in a Jupyter notebook file will always be overwritten by changes made in its paired markdown file. Enabling may cause sync issues.",
+                    "target": "禁用时，Jupyter 笔记本文件中的更改将始终被其配对的 markdown 文件中的更改覆盖。启用可能导致同步问题。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Python interpreter",
+                    "target": "Python 解释器"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Install required libraries",
+                    "target": "安装所需库"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Jupyter notebook editor launch command",
+                    "target": "Jupyter 笔记本编辑器启动命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Custom Python code blocks",
+                    "target": "自定义 Python 代码块"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Automatic sync",
+                    "target": "自动同步"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Bidirectional sync",
+                    "target": "双向同步"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Prism.fileHighlight is deprecated. Use `Prism.plugins.fileHighlight.highlight` instead.",
+                    "target": "Prism.fileHighlight 已弃用。请改用 `Prism.plugins.fileHighlight.highlight`。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Max sync wait time exceeded, proceeding with execution",
+                    "target": "超过最大同步等待时间，继续执行"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "warn",
+                    "source": "Code execution proceeding despite sync being blocked (timeout reached)",
+                    "target": "同步被阻止（已超时），仍继续执行代码"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Warnings issued for installation, check console for details.",
+                    "target": "安装已发出警告，请查看控制台了解详情。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Failed to install packages, check console for details.",
+                    "target": "安装包失败，请查看控制台了解详情。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Please restart the kernel before executing code in another note.\nUse the 'Restart Python kernel' command.",
+                    "target": "请在其他笔记中执行代码前重启内核。\n使用“重启 Python 内核”命令。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Error updating notebook, check console for details",
+                    "target": "更新笔记本出错，请查看控制台了解详情"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Python process error, check console for details",
+                    "target": "Python 进程出错，请查看控制台了解详情"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Python kernel restarted",
+                    "target": "Python 内核已重启"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Invalid Python path",
+                    "target": "无效的 Python 路径"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Valid Python path, saving interpreter location...",
+                    "target": "有效的 Python 路径，正在保存解释器位置..."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Installing libraries...",
+                    "target": "正在安装库..."
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "No Jupyter notebook (.ipynb) files found in your vault.",
+                    "target": "在你的仓库中未找到 Jupyter 笔记本（.ipynb）文件。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "No active note found.",
+                    "target": "未找到活动的笔记。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Notebook is already paired with this note.",
+                    "target": "该笔记本已与此笔记配对。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Create Jupyter notebook from note",
+                    "target": "从笔记创建 Jupyter 笔记本"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Create note from Jupyter notebook",
+                    "target": "从 Jupyter 笔记本创建笔记"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Open Jupyter notebook in editor",
+                    "target": "在编辑器中打开 Jupyter 笔记本"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Restart Python kernel",
+                    "target": "重启 Python 内核"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "name",
+                    "source": "Sync files",
+                    "target": "同步文件"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Quick setup failed:",
+                    "target": "快速设置失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to delete paired notebook:",
+                    "target": "删除配对笔记本失败："
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "error",
+                    "source": "Failed to rename paired notebook:",
+                    "target": "未能重命名配对笔记本："
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Quick setup is only supported on local file systems.",
+                    "target": "快速设置仅支持本地文件系统。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Creating virtual environment... Please wait.",
+                    "target": "创建虚拟环境... 请等待。"
+                },
+                {
+                    "type": "NewExpression",
+                    "name": "Notice",
+                    "source": "Quick setup complete! Virtual environment created successfully.",
+                    "target": "快速设置完成！虚拟环境创建成功。"
+                },
+                {
+                    "type": "ObjectProperty",
+                    "name": "text",
+                    "source": "Read manual setup guide.",
+                    "target": "阅读手动设置指南。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "appendText",
+                    "source": "Select the Python interpreter. Requires restart to take effect.",
+                    "target": "选择Python解释器，重启生效。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Setting up...",
+                    "target": "设置中"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Automatically create a virtual environment (.jupymd) in your vault root and install the required libraries. Requires restart to take effect.",
+                    "target": "自动在保险库根目录创建虚拟环境(.jupymd)并安装所需库，重启生效。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Install Jupytext and matplotlib for specified interpreter using pip.",
+                    "target": "使用pip为指定解释器安装Jupytext和matplotlib。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Specify the command to launch Jupyter notebooks in your preferred editor (e.g., 'code' for VS Code, 'jupyter-lab' for Jupyter Lab, etc.)",
+                    "target": "指定在首选编辑器中启动Jupyter笔记本的命令（如'code'、'jupyter-lab'等）。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Quick setup",
+                    "target": "快速设置"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Run",
+                    "target": "运行"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Install required libraries",
+                    "target": "安装所需库"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Install Jupytext and matplotlib for specified interpreter using pip.",
+                    "target": "为指定解释器使用pip安装Jupytext和matplotlib。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setButtonText",
+                    "source": "Install",
+                    "target": "安装"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Jupyter notebook editor launch command",
+                    "target": "Jupyter笔记本编辑器启动命令"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "Specify the command to launch Jupyter notebooks in your preferred editor (e.g., 'code' for VS Code, 'jupyter-lab' for Jupyter Lab, etc.)",
+                    "target": "指定启动Jupyter笔记本的命令（例如，VS Code用'code'，Jupyter Lab用'jupyter-lab'等）。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Custom Python code blocks",
+                    "target": "自定义Python代码块"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "When disabled, the default Obsidian code block will be used. Requires restart to take effect.",
+                    "target": "禁用时使用默认Obsidian代码块。需重启生效。"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setName",
+                    "source": "Automatic sync",
+                    "target": "自动同步"
+                },
+                {
+                    "type": "CallExpression",
+                    "name": "setDesc",
+                    "source": "When disabled, linked markdown and Jupyter notebook files will have to be synced manually through the \"JupyMD: Sync files\" command. Disable if experiencing sync issues.",
+                    "target": "禁用后，需通过“JupyMD: 同步文件”命令手动同步链接的markdown和Jupyter笔记本文件。遇到同步问题时禁用。"
+                }
+            ],
+            "regex": [
+                {
+                    "source": ".setButtonText(n?\"Setup Complete\":\"Run Quick Setup\")",
+                    "target": ".setButtonText(n?\"设置完成\":\"快速设置\")"
+                },
+                {
+                    "source": ".createEl(\"h4\",{text:\"General\"})",
+                    "target": ".createEl(\"h4\",{text:\"通用\"})"
+                }
+            ]
+        }
+    }
+}
