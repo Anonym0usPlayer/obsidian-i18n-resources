@@ -128,5 +128,18 @@
         "created_at": "2026-04-06T11:22:06.168Z",
         "updated_at": "2026-04-06T11:22:06.168Z",
         "type": "plugin"
+    },
+    {
+        "id": "JuuSWajcQ_Se4U97bCqRv9V_JfAoYsND",
+        "plugin": "obsidian-statusbar-pomo",
+        "language": "zh-cn",
+        "version": "0.1.15",
+        "supported_versions": "0.1.15",
+        "title": "Status Bar Pomodoro Timer",
+        "description": "优化翻译",
+        "hash": "03033943030339430303394303033943",
+        "created_at": "2026-04-06T13:21:30.687Z",
+        "updated_at": "2026-04-06T13:21:30.687Z",
+        "type": "plugin"
     }
 ]
