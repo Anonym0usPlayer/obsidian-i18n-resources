@@ -36,6 +36,34 @@
                 {
                     "source": "\"name-open-help\":\"Open Help\"",
                     "target": "\"name-open-help\":\"打开帮助\""
+                },
+                {
+                    "source": "\"option-hotkey-description\":\"Open Obsidian's hotkey settings.\"",
+                    "target": "\"option-hotkey-description\":\"打开 Obsidian 的快捷键设置。\""
+                },
+                {
+                    "source": "\"option-position\":\"Where to open toolbar\"",
+                    "target": "\"option-position\":\"在哪里打开工具栏\""
+                },
+                {
+                    "source": "\"option-position-description\":\"By default the toolbar opens as a floating toolbar at the cursor position.\"",
+                    "target": "\"option-position-description\":\"默认情况下，工具栏会在光标位置以浮动工具栏的形式打开。\""
+                },
+                {
+                    "source": "\"Set hotkey\"",
+                    "target": "\"设置热键\""
+                },
+                {
+                    "source": "\"option-floating\":\"Floating toolbar\"",
+                    "target": "\"option-floating\":\"浮动工具栏\""
+                },
+                {
+                    "source": "\"option-menu\":\"Menu\"",
+                    "target": "\"option-menu\":\"菜单\""
+                },
+                {
+                    "source": "\"option-quicktools\":\"Quick Tools window\"",
+                    "target": "\"option-quicktools\":\"快速工具窗口\""
                 }
             ]
         }
