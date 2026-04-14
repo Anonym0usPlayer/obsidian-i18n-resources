@@ -58,7 +58,7 @@
                     "type": "ObjectProperty",
                     "name": "name",
                     "source": "Quiet Outline",
-                    "target": "静默大纲"
+                    "target": "打开大纲"
                 },
                 {
                     "type": "ObjectProperty",
@@ -127,100 +127,7 @@
                     "target": "请输入"
                 }
             ],
-            "regex": [
-                {
-                    "source": "Notice(`No file in markdown view`)",
-                    "target": "Notice(`No file in markdown view`)"
-                },
-                {
-                    "source": "error(`[evtd/create-trap-handler]: name \\`${e}\\` is invalid. This could be a bug of evtd.`)",
-                    "target": "error(`[evtd/create-trap-handler]: name \\`${e}\\` is invalid. This could be a bug of evtd.`)"
-                },
-                {
-                    "source": "error(`[vdirs/${e}]: ${t}`)",
-                    "target": "error(`[vdirs/${e}]: ${t}`)"
-                },
-                {
-                    "source": "error(`[vueuc/${e}]: ${t}`)",
-                    "target": "error(`[vueuc/${e}]: ${t}`)"
-                },
-                {
-                    "source": "error(`[naive/${e}]: ${t}`)",
-                    "target": "error(`[naive/${e}]: ${t}`)"
-                },
-                {
-                    "source": "error(`[css-render/unmount]: The style with target='${n}' is mounted in count mode.`)",
-                    "target": "error(`[css-render/unmount]: The style with target='${n}' is mounted in count mode.`)"
-                },
-                {
-                    "source": "error(`[css-render/unmount]: The style with target='${n}' is mounted in no-count mode.`)",
-                    "target": "error(`[css-render/unmount]: The style with target='${n}' is mounted in no-count mode.`)"
-                },
-                {
-                    "source": "error(\"[css-render/mount]: `id` is required in `boost` mode.\")",
-                    "target": "error(\"[css-render/mount]: `id` is required in `boost` mode.\")"
-                },
-                {
-                    "source": "error(`[css-render/mount]: The style with id='${n}' has been mounted in no-count mode.`)",
-                    "target": "error(`[css-render/mount]: The style with id='${n}' has been mounted in no-count mode.`)"
-                },
-                {
-                    "source": "error(`[css-render/mount]: The style with id='${n}' has been mounted in count mode.`)",
-                    "target": "error(`[css-render/mount]: The style with id='${n}' has been mounted in count mode.`)"
-                },
-                {
-                    "source": "setTooltip(`release doc 0.3.32`)",
-                    "target": "setTooltip(`release doc 0.3.32`)"
-                },
-                {
-                    "source": "error(`Failed to save data to ${n}: ${e}`)",
-                    "target": "error(`Failed to save data to ${n}: ${e}`)"
-                },
-                {
-                    "source": "Notice(`Headings copied`)",
-                    "target": "Notice(`Headings copied`)"
-                },
-                {
-                    "source": "description:`No Data`",
-                    "target": "description:`No Data`"
-                },
-                {
-                    "source": "name:`Quiet Outline`",
-                    "target": "name:`Quiet Outline`"
-                },
-                {
-                    "source": "name:`Focus Heading Tree`",
-                    "target": "name:`Focus Heading Tree`"
-                },
-                {
-                    "source": "name:`Reset expanding level`",
-                    "target": "name:`Reset expanding level`"
-                },
-                {
-                    "source": "name:`Focus on input`",
-                    "target": "name:`Focus on input`"
-                },
-                {
-                    "source": "name:`Copy Current Headings As Text`",
-                    "target": "name:`Copy Current Headings As Text`"
-                },
-                {
-                    "source": "name:`Increase Level`",
-                    "target": "name:`Increase Level`"
-                },
-                {
-                    "source": "name:`Decrease Level`",
-                    "target": "name:`Decrease Level`"
-                },
-                {
-                    "source": "name:`To previous heading`",
-                    "target": "name:`To previous heading`"
-                },
-                {
-                    "source": "name:`To next heading`",
-                    "target": "name:`To next heading`"
-                }
-            ]
+            "regex": []
         }
     }
 }
