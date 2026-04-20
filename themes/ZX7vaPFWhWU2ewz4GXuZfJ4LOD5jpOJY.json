@@ -28,7 +28,7 @@
         {
             "type": "markdown",
             "source": "true",
-            "target": "true"
+            "target": "真"
         },
         {
             "type": "description",
@@ -208,17 +208,17 @@
         {
             "type": "label",
             "source": "Normal",
-            "target": "Normal"
+            "target": "正常"
         },
         {
             "type": "label",
             "source": "Low contrast",
-            "target": "Low contrast"
+            "target": "低对比度"
         },
         {
             "type": "label",
             "source": "High contrast",
-            "target": "High contrast"
+            "target": "高对比度"
         },
         {
             "type": "title",
@@ -253,12 +253,12 @@
         {
             "type": "label",
             "source": "Black",
-            "target": "Black"
+            "target": "纯黑"
         },
         {
             "type": "label",
             "source": "Black (Mobile)",
-            "target": "Black (Mobile)"
+            "target": "纯黑（移动版）"
         },
         {
             "type": "title",
@@ -723,17 +723,17 @@
         {
             "type": "label",
             "source": "Playful",
-            "target": "Playful"
+            "target": "活泼"
         },
         {
             "type": "label",
             "source": "Sharp",
-            "target": "Sharp"
+            "target": "锐利"
         },
         {
             "type": "label",
             "source": "Refined",
-            "target": "Refined"
+            "target": "精致"
         },
         {
             "type": "title",
@@ -853,12 +853,12 @@
         {
             "type": "label",
             "source": "Default",
-            "target": "Default"
+            "target": "默认"
         },
         {
             "type": "label",
             "source": "Reversed",
-            "target": "Reversed"
+            "target": "反向"
         },
         {
             "type": "title",
@@ -878,17 +878,17 @@
         {
             "type": "label",
             "source": "Hover only",
-            "target": "Hover only"
+            "target": "仅悬停"
         },
         {
             "type": "label",
             "source": "Hidden",
-            "target": "Hidden"
+            "target": "隐藏"
         },
         {
             "type": "label",
             "source": "Always",
-            "target": "Always"
+            "target": "始终"
         },
         {
             "type": "title",
@@ -1528,7 +1528,7 @@
         {
             "type": "label",
             "source": "Italic",
-            "target": "Italic"
+            "target": "斜体"
         },
         {
             "type": "title",
@@ -1833,7 +1833,7 @@
         {
             "type": "title",
             "source": "Banner",
-            "target": "Banner"
+            "target": "横幅"
         },
         {
             "type": "title",
@@ -1873,17 +1873,17 @@
         {
             "type": "label",
             "source": "Cover",
-            "target": "Cover"
+            "target": "覆盖"
         },
         {
             "type": "label",
             "source": "Contain",
-            "target": "Contain"
+            "target": "适应"
         },
         {
             "type": "label",
             "source": "Fill",
-            "target": "Fill"
+            "target": "填充"
         },
         {
             "type": "title",
@@ -1898,7 +1898,7 @@
         {
             "type": "label",
             "source": "Visible",
-            "target": "Visible"
+            "target": "可见"
         },
         {
             "type": "title",
@@ -2228,7 +2228,7 @@
         {
             "type": "label",
             "source": "Hiragana Iroha",
-            "target": "平假名（伊吕波）"
+            "target": "平假名（伊吕波顺）"
         },
         {
             "type": "label",
@@ -2238,7 +2238,7 @@
         {
             "type": "label",
             "source": "Katakana Iroha",
-            "target": "片假名（伊吕波）"
+            "target": "片假名（伊吕波顺）"
         },
         {
             "type": "label",
@@ -2273,12 +2273,12 @@
         {
             "type": "label",
             "source": "Rounded",
-            "target": "Rounded"
+            "target": "圆角"
         },
         {
             "type": "label",
             "source": "Circle",
-            "target": "Circle"
+            "target": "圆形"
         },
         {
             "type": "title",
@@ -2333,12 +2333,12 @@
         {
             "type": "label",
             "source": "Seamless",
-            "target": "Seamless"
+            "target": "无缝"
         },
         {
             "type": "label",
             "source": "Shadow",
-            "target": "Shadow"
+            "target": "阴影"
         },
         {
             "type": "title",
@@ -2433,12 +2433,12 @@
         {
             "type": "label",
             "source": "Pill",
-            "target": "Pill"
+            "target": "胶囊"
         },
         {
             "type": "label",
             "source": "Square",
-            "target": "Square"
+            "target": "方形"
         },
         {
             "type": "title",
