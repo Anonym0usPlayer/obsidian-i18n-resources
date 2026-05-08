@@ -167,5 +167,18 @@
         "created_at": "2026-04-06T17:21:16.144Z",
         "updated_at": "2026-04-06T17:21:16.144Z",
         "type": "plugin"
+    },
+    {
+        "id": "hgoRzc8sPMUiUglyD6TGLUSc-b0Km-kN",
+        "plugin": "obsidian-kanban",
+        "language": "zh-cn",
+        "version": "2.0.51",
+        "supported_versions": "2.0.51",
+        "title": "Kanban",
+        "description": "Create markdown-backed Kanban boards in Obsidian.",
+        "hash": "31d6dcc431d6dcc431d6dcc431d6dcc4",
+        "created_at": "2026-05-08T13:38:54.917Z",
+        "updated_at": "2026-05-08T13:38:54.917Z",
+        "type": "plugin"
     }
 ]
