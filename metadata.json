@@ -193,5 +193,18 @@
         "created_at": "2026-05-18T05:39:51.250Z",
         "updated_at": "2026-05-18T05:39:51.250Z",
         "type": "plugin"
+    },
+    {
+        "id": "M4-v9bS7eyyoE7zWV_DAE4WLcm7qaXLB",
+        "plugin": "obsidian-pandoc",
+        "language": "zh-cn",
+        "version": "0.4.1",
+        "supported_versions": "0.4.1",
+        "title": "Pandoc Plugin",
+        "description": "Pandoc Plugin Localization & Tweaks",
+        "hash": "1ebfe86c1ebfe86c1ebfe86c1ebfe86c",
+        "created_at": "2026-05-19T08:08:12.825Z",
+        "updated_at": "2026-05-19T08:08:12.825Z",
+        "type": "plugin"
     }
 ]
