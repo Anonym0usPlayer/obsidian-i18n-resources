@@ -5,3 +5,4 @@
 ## 停止更新
 
 - Editing Toolbar
+- JupyMD
