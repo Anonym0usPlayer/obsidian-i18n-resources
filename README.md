@@ -2,7 +2,8 @@
 
 > tip: 所有主题和插件均为本人使用插件，随缘更新。
 
-## 停止更新
+## 翻译停止更新
 
 - Editing Toolbar
 - JupyMD
+- Baseline
